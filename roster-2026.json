@@ -1,0 +1,190 @@
+{
+  "season": 2026,
+  "status": "confirmed from coach-provided roster details",
+  "players": [
+    {
+      "name": "Jeff Buelow",
+      "number": 28,
+      "positions": [
+        "C",
+        "P"
+      ],
+      "description": "Consistent contact hitter with run-producing ability and innings on the mound.",
+      "achievements": []
+    },
+    {
+      "name": "Sean Thornton",
+      "number": 22,
+      "positions": [
+        "C",
+        "OF",
+        "P"
+      ],
+      "description": "Impact bat with elite on-base production, speed, and defensive versatility.",
+      "achievements": [
+        "2026 All-Star"
+      ]
+    },
+    {
+      "name": "Tim Robertson",
+      "number": 36,
+      "positions": [
+        "C",
+        "UTL",
+        "P"
+      ],
+      "description": "Versatile veteran who contributes behind the plate, around the field, and on the mound.",
+      "achievements": [
+        "2025 All-Star"
+      ]
+    },
+    {
+      "name": "Sean Adams",
+      "number": 35,
+      "positions": [
+        "1B",
+        "P"
+      ],
+      "description": "Reliable run producer with a strong contact approach and pitching depth.",
+      "achievements": []
+    },
+    {
+      "name": "Matthew Swinkey",
+      "number": 23,
+      "positions": [
+        "1B",
+        "OF"
+      ],
+      "description": "Steady contact hitter who consistently puts together productive at-bats.",
+      "achievements": [
+        "2025 All-Star"
+      ]
+    },
+    {
+      "name": "Jordan Goss",
+      "number": 4,
+      "positions": [
+        "2B",
+        "P"
+      ],
+      "description": "High-contact table setter with speed and the versatility to take the mound.",
+      "achievements": [
+        "2025 All-Star",
+        "2026 All-Star"
+      ]
+    },
+    {
+      "name": "Mason Blair",
+      "number": 8,
+      "positions": [
+        "3B",
+        "P"
+      ],
+      "description": "Dependable corner infielder who adds depth at third base and on the mound.",
+      "achievements": []
+    },
+    {
+      "name": "Ryan Burnett",
+      "number": 1,
+      "positions": [
+        "3B",
+        "SS",
+        "P"
+      ],
+      "description": "Dynamic two-way player with power, speed, and impact production on both sides of the ball.",
+      "achievements": [
+        "2026 All-Star",
+        "May 2026 Hitter of the Month"
+      ]
+    },
+    {
+      "name": "Noah Steele",
+      "number": 27,
+      "positions": [
+        "SS"
+      ],
+      "description": "Athletic shortstop who flashed extra-base ability and run production in limited action.",
+      "achievements": []
+    },
+    {
+      "name": "Brian Smith",
+      "number": 7,
+      "positions": [
+        "OF"
+      ],
+      "description": "Athletic outfielder who adds speed and consistent run-scoring ability.",
+      "achievements": []
+    },
+    {
+      "name": "Adrian Echeverri",
+      "number": 21,
+      "positions": [
+        "OF",
+        "P"
+      ],
+      "description": "Athletic outfielder who adds contact, baserunning pressure, and pitching depth.",
+      "achievements": [
+        "2026 All-Star"
+      ]
+    },
+    {
+      "name": "Jacob Garness",
+      "number": 11,
+      "positions": [
+        "OF",
+        "P"
+      ],
+      "description": "Proven contact hitter and dependable arm who has consistently produced for the Salamanders.",
+      "achievements": [
+        "2025 All-Star",
+        "2025 Week 1 Hitter of the Week",
+        "2025 Week 2 Hitter of the Week"
+      ]
+    },
+    {
+      "name": "Esteban Fernandez Jr.",
+      "number": 17,
+      "positions": [
+        "OF"
+      ],
+      "description": "Player-coach who brings leadership, patience at the plate, and a team-first approach.",
+      "achievements": [
+        "2025 All-Star"
+      ]
+    },
+    {
+      "name": "Alex Gonzales",
+      "number": 13,
+      "positions": [
+        "P",
+        "SS",
+        "OF"
+      ],
+      "description": "Front-line pitcher with swing-and-miss stuff who also brings athleticism at shortstop and in the outfield.",
+      "achievements": [
+        "2026 All-Star"
+      ],
+      "primary_position": "P"
+    }
+  ],
+  "coaching_staff": [
+    {
+      "name": "Esteban Fernandez Jr.",
+      "number": 17,
+      "role": "Head Coach / Player",
+      "description": "Leads the Salamanders on and off the field with a team-first approach.",
+      "achievements": [
+        "Inaugural 2025 TCABL Coach of the Year"
+      ]
+    },
+    {
+      "name": "Chuck Burnett",
+      "number": 0,
+      "role": "Coach",
+      "description": "A trusted baseball mind who has been instrumental in helping shape every part of the Salamanders program since joining in 2026.",
+      "achievements": [
+        "Joined coaching staff in 2026"
+      ]
+    }
+  ]
+}
