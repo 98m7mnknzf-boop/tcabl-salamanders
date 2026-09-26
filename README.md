@@ -1,3 +1,12 @@
+# TCABL Salamanders Website — V18
+
+## V18 changes
+- Includes the complete V17 2026 player and coaching-staff photo set.
+- Adds a photographic background to the **2026 Regular Season** stats banner using the team group photo.
+- Adds a photographic background to the **2026 Pitching** stats banner using Alex Gonzales pitching in black.
+- Uses layered gold/red/dark overlays so both banners retain the Salamanders visual identity and stay readable on desktop and mobile.
+- Keeps the Instagram link and all existing stats, achievements, roster data, and responsive behavior intact.
+
 # TCABL Salamanders Website
 
 This is a ready-to-open static website starter for the Salamanders.
@@ -143,7 +152,7 @@ The all-time leader values are intentionally blank until verified career totals 
 - Corrected Jeff Buelow's full name throughout current 2026 datasets/site output
 - Added roster-2026.json to make future roster updates easier
 
-## V16 — launch-ready polish
+## V17 — launch-ready polish
 - Polished the phone/tablet layout and mobile navigation
 - Added accessible focus states, skip navigation and reduced-motion support
 - Added active-section nav highlighting and a back-to-top button
@@ -160,3 +169,7 @@ The all-time leader values are intentionally blank until verified career totals 
 GitHub should hold the master website files and Vercel should host the live site.
 Future roster, award, stat, photo and schedule updates can then be pushed to the
 same live site instead of creating a separate website each time.
+
+
+## V17 roster photography
+Added official coach-provided photos to every 2026 player card and both coaching staff cards. Photos are web-optimized WebP files under `assets/players/`. The Instagram connection from the live site is also preserved.

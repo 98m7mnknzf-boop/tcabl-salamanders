@@ -10,7 +10,8 @@
         "P"
       ],
       "description": "Consistent contact hitter with run-producing ability and innings on the mound.",
-      "achievements": []
+      "achievements": [],
+      "photo": "assets/players/jeff-buelow.webp"
     },
     {
       "name": "Sean Thornton",
@@ -23,7 +24,8 @@
       "description": "Impact bat with elite on-base production, speed, and defensive versatility.",
       "achievements": [
         "2026 All-Star"
-      ]
+      ],
+      "photo": "assets/players/sean-thornton.webp"
     },
     {
       "name": "Tim Robertson",
@@ -36,7 +38,8 @@
       "description": "Versatile veteran who contributes behind the plate, around the field, and on the mound.",
       "achievements": [
         "2025 All-Star"
-      ]
+      ],
+      "photo": "assets/players/tim-robertson.webp"
     },
     {
       "name": "Sean Adams",
@@ -46,7 +49,8 @@
         "P"
       ],
       "description": "Reliable run producer with a strong contact approach and pitching depth.",
-      "achievements": []
+      "achievements": [],
+      "photo": "assets/players/sean-adams.webp"
     },
     {
       "name": "Matthew Swinkey",
@@ -58,7 +62,8 @@
       "description": "Steady contact hitter who consistently puts together productive at-bats.",
       "achievements": [
         "2025 All-Star"
-      ]
+      ],
+      "photo": "assets/players/matthew-swinkey.webp"
     },
     {
       "name": "Jordan Goss",
@@ -71,7 +76,8 @@
       "achievements": [
         "2025 All-Star",
         "2026 All-Star"
-      ]
+      ],
+      "photo": "assets/players/jordan-goss.webp"
     },
     {
       "name": "Mason Blair",
@@ -81,7 +87,8 @@
         "P"
       ],
       "description": "Dependable corner infielder who adds depth at third base and on the mound.",
-      "achievements": []
+      "achievements": [],
+      "photo": "assets/players/mason-blair.webp"
     },
     {
       "name": "Ryan Burnett",
@@ -95,7 +102,8 @@
       "achievements": [
         "2026 All-Star",
         "May 2026 Hitter of the Month"
-      ]
+      ],
+      "photo": "assets/players/ryan-burnett.webp"
     },
     {
       "name": "Noah Steele",
@@ -104,7 +112,8 @@
         "SS"
       ],
       "description": "Athletic shortstop who flashed extra-base ability and run production in limited action.",
-      "achievements": []
+      "achievements": [],
+      "photo": "assets/players/noah-steele.webp"
     },
     {
       "name": "Brian Smith",
@@ -113,7 +122,8 @@
         "OF"
       ],
       "description": "Athletic outfielder who adds speed and consistent run-scoring ability.",
-      "achievements": []
+      "achievements": [],
+      "photo": "assets/players/brian-smith.webp"
     },
     {
       "name": "Adrian Echeverri",
@@ -125,7 +135,8 @@
       "description": "Athletic outfielder who adds contact, baserunning pressure, and pitching depth.",
       "achievements": [
         "2026 All-Star"
-      ]
+      ],
+      "photo": "assets/players/adrian-echeverri.webp"
     },
     {
       "name": "Jacob Garness",
@@ -139,7 +150,8 @@
         "2025 All-Star",
         "2025 Week 1 Hitter of the Week",
         "2025 Week 2 Hitter of the Week"
-      ]
+      ],
+      "photo": "assets/players/jacob-garness.webp"
     },
     {
       "name": "Esteban Fernandez Jr.",
@@ -150,7 +162,8 @@
       "description": "Player-coach who brings leadership, patience at the plate, and a team-first approach.",
       "achievements": [
         "2025 All-Star"
-      ]
+      ],
+      "photo": "assets/players/esteban-fernandez-jr-player.webp"
     },
     {
       "name": "Alex Gonzales",
@@ -164,7 +177,8 @@
       "achievements": [
         "2026 All-Star"
       ],
-      "primary_position": "P"
+      "primary_position": "P",
+      "photo": "assets/players/alex-gonzales.webp"
     }
   ],
   "coaching_staff": [
@@ -175,7 +189,8 @@
       "description": "Leads the Salamanders on and off the field with a team-first approach.",
       "achievements": [
         "Inaugural 2025 TCABL Coach of the Year"
-      ]
+      ],
+      "photo": "assets/players/esteban-fernandez-jr-coach.webp"
     },
     {
       "name": "Chuck Burnett",
@@ -184,7 +199,8 @@
       "description": "A trusted baseball mind who has been instrumental in helping shape every part of the Salamanders program since joining in 2026.",
       "achievements": [
         "Joined coaching staff in 2026"
-      ]
+      ],
+      "photo": "assets/players/chuck-burnett.webp"
     }
   ]
 }
