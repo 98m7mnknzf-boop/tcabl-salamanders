@@ -121,7 +121,7 @@ The all-time leader values are intentionally blank until verified career totals 
 - Emphasized that the 2025 award was the first Coach of the Year honor in TCABL history
 - Added the official award graphic and award-presentation photo
 - Added 2025 All-Star class: Jacob Garness, Jordan Goss, Matthew Swinkey, Tim Robertson, Andrew Molina, Esteban Fernandez Jr.
-- Added 2026 All-Star class: Adrian Echeverri, Alex Gonzalez, Jordan Goss, Ryan Burnett, Sean Thornton
+- Added 2026 All-Star class: Adrian Echeverri, Alex Gonzales, Jeff Buelow, Jordan Goss, Ryan Burnett, Sean Thornton
 - Added disclaimer that stats shown on All-Star announcement graphics were snapshots at the time of selection, not final season totals
 
 ## V12 — 2025 TCABL weekly honors
@@ -173,3 +173,10 @@ same live site instead of creating a separate website each time.
 
 ## V17 roster photography
 Added official coach-provided photos to every 2026 player card and both coaching staff cards. Photos are web-optimized WebP files under `assets/players/`. The Instagram connection from the live site is also preserved.
+
+
+## V19
+- Refreshed Coach Esteban Fernandez Jr., Tim Robertson, and Brian Smith photos.
+- Expanded abbreviated stat names to Danny Baer, Devin Mendez, and Brian Smith across site output and source datasets.
+- Corrected Alex Gonzales spelling in honors documentation.
+- Added Jeff Buelow as a 2026 All-Star selection and updated 2026 / franchise All-Star totals.
