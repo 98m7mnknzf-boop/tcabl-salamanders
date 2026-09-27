@@ -180,3 +180,17 @@ Added official coach-provided photos to every 2026 player card and both coaching
 - Expanded abbreviated stat names to Danny Baer, Devin Mendez, and Brian Smith across site output and source datasets.
 - Corrected Alex Gonzales spelling in honors documentation.
 - Added Jeff Buelow as a 2026 All-Star selection and updated 2026 / franchise All-Star totals.
+
+
+## V20 — Search + Sort Upgrade
+- Added click/tap sorting to every full batting, baserunning and pitching stat table.
+- First click defaults to leader-friendly order (ERA/WHIP/BAA and other lower-is-better columns sort low-to-high).
+- Added keyboard-accessible sort controls and visible direction arrows.
+- Added canonical URL, sitemap, upgraded robots.txt, social metadata and SportsTeam structured data for salamandersbaseball.org.
+
+## V20 final additions
+- Sortable/tappable columns across all 12 stat tables.
+- Technical SEO: canonical URL, sitemap, robots sitemap reference, social metadata, and SportsTeam structured data.
+- Player acquisition history added to every 2026 roster card and roster JSON.
+- Chuck Burnett staff bio updated to include the father-son connection with Ryan Burnett.
+

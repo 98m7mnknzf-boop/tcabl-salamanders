@@ -13,7 +13,8 @@
       "achievements": [
         "2026 All-Star"
       ],
-      "photo": "assets/players/jeff-buelow.webp"
+      "photo": "assets/players/jeff-buelow.webp",
+      "acquisition": "Signed · 2026 Free Agency · Post-2025 Season"
     },
     {
       "name": "Sean Thornton",
@@ -27,7 +28,8 @@
       "achievements": [
         "2026 All-Star"
       ],
-      "photo": "assets/players/sean-thornton.webp"
+      "photo": "assets/players/sean-thornton.webp",
+      "acquisition": "2026 Spring Draft · R1 · P1"
     },
     {
       "name": "Tim Robertson",
@@ -41,7 +43,8 @@
       "achievements": [
         "2025 All-Star"
       ],
-      "photo": "assets/players/tim-robertson.webp"
+      "photo": "assets/players/tim-robertson.webp",
+      "acquisition": "2025 Inaugural Draft · R6 · #24 Overall"
     },
     {
       "name": "Sean Adams",
@@ -52,7 +55,8 @@
       ],
       "description": "Reliable run producer with a strong contact approach and pitching depth.",
       "achievements": [],
-      "photo": "assets/players/sean-adams.webp"
+      "photo": "assets/players/sean-adams.webp",
+      "acquisition": "Signed · 2026 Free Agency · Post-2025 Season"
     },
     {
       "name": "Matthew Swinkey",
@@ -65,7 +69,8 @@
       "achievements": [
         "2025 All-Star"
       ],
-      "photo": "assets/players/matthew-swinkey.webp"
+      "photo": "assets/players/matthew-swinkey.webp",
+      "acquisition": "2025 Inaugural Draft · R4 · #16 Overall"
     },
     {
       "name": "Jordan Goss",
@@ -79,7 +84,8 @@
         "2025 All-Star",
         "2026 All-Star"
       ],
-      "photo": "assets/players/jordan-goss.webp"
+      "photo": "assets/players/jordan-goss.webp",
+      "acquisition": "2025 Inaugural Draft · R1 · #2 Overall"
     },
     {
       "name": "Mason Blair",
@@ -90,7 +96,8 @@
       ],
       "description": "Dependable corner infielder who adds depth at third base and on the mound.",
       "achievements": [],
-      "photo": "assets/players/mason-blair.webp"
+      "photo": "assets/players/mason-blair.webp",
+      "acquisition": "Founding Member · 2025"
     },
     {
       "name": "Ryan Burnett",
@@ -105,7 +112,8 @@
         "2026 All-Star",
         "May 2026 Hitter of the Month"
       ],
-      "photo": "assets/players/ryan-burnett.webp"
+      "photo": "assets/players/ryan-burnett.webp",
+      "acquisition": "Signed · 2026 Free Agency · Post-2025 Season"
     },
     {
       "name": "Noah Steele",
@@ -115,7 +123,8 @@
       ],
       "description": "Athletic shortstop who flashed extra-base ability and run production in limited action.",
       "achievements": [],
-      "photo": "assets/players/noah-steele.webp"
+      "photo": "assets/players/noah-steele.webp",
+      "acquisition": "Taxi Pool · 2026 | Officially Joined · Post-2026 Season"
     },
     {
       "name": "Brian Smith",
@@ -125,7 +134,8 @@
       ],
       "description": "Athletic outfielder who adds speed and consistent run-scoring ability.",
       "achievements": [],
-      "photo": "assets/players/brian-smith.webp"
+      "photo": "assets/players/brian-smith.webp",
+      "acquisition": "Signed · 2026 Free Agency · Post-2025 Season"
     },
     {
       "name": "Adrian Echeverri",
@@ -138,7 +148,8 @@
       "achievements": [
         "2026 All-Star"
       ],
-      "photo": "assets/players/adrian-echeverri.webp"
+      "photo": "assets/players/adrian-echeverri.webp",
+      "acquisition": "Signed · 2026 Free Agency · Post-2025 Season"
     },
     {
       "name": "Jacob Garness",
@@ -153,7 +164,8 @@
         "2025 Week 1 Hitter of the Week",
         "2025 Week 2 Hitter of the Week"
       ],
-      "photo": "assets/players/jacob-garness.webp"
+      "photo": "assets/players/jacob-garness.webp",
+      "acquisition": "2025 Inaugural Draft · R2 · #7 Overall"
     },
     {
       "name": "Esteban Fernandez Jr.",
@@ -165,7 +177,8 @@
       "achievements": [
         "2025 All-Star"
       ],
-      "photo": "assets/players/esteban-fernandez-jr-player.webp"
+      "photo": "assets/players/esteban-fernandez-jr-player.webp",
+      "acquisition": "Founder / Head Coach · 2025"
     },
     {
       "name": "Alex Gonzales",
@@ -180,7 +193,8 @@
         "2026 All-Star"
       ],
       "primary_position": "P",
-      "photo": "assets/players/alex-gonzales.webp"
+      "photo": "assets/players/alex-gonzales.webp",
+      "acquisition": "2025 Winter Draft · R3 · #5 Overall"
     }
   ],
   "coaching_staff": [
@@ -192,17 +206,19 @@
       "achievements": [
         "Inaugural 2025 TCABL Coach of the Year"
       ],
-      "photo": "assets/players/esteban-fernandez-jr-coach.webp"
+      "photo": "assets/players/esteban-fernandez-jr-coach.webp",
+      "joined": "Founder / Head Coach · 2025"
     },
     {
       "name": "Chuck Burnett",
       "number": 0,
       "role": "Coach",
-      "description": "A trusted baseball mind who has been instrumental in helping shape every part of the Salamanders program since joining in 2026.",
+      "description": "Joined the Salamanders coaching staff in 2026 alongside his son, Ryan Burnett. His baseball experience and steady presence have been instrumental in helping shape the club.",
       "achievements": [
         "Joined coaching staff in 2026"
       ],
-      "photo": "assets/players/chuck-burnett.webp"
+      "photo": "assets/players/chuck-burnett.webp",
+      "joined": "2026 · Joined alongside Ryan Burnett"
     }
   ]
 }
