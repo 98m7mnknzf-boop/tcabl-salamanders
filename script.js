@@ -46,6 +46,24 @@ document.querySelectorAll(".pitch-season-tab").forEach(tab => {
   });
 });
 
+// V20.1 hotfix: keep the initially selected tab and its panel in sync on page load.
+const syncActiveTabPanel = (tabSelector, panelSelector, targetKey) => {
+  const tabs = [...document.querySelectorAll(tabSelector)];
+  const panels = [...document.querySelectorAll(panelSelector)];
+  if (!tabs.length || !panels.length) return;
+
+  const activeTab = tabs.find(tab => tab.classList.contains("active")) || tabs[0];
+  tabs.forEach(tab => tab.classList.toggle("active", tab === activeTab));
+  panels.forEach(panel => panel.classList.remove("active"));
+
+  const targetId = activeTab.dataset[targetKey];
+  const target = targetId ? document.getElementById(targetId) : null;
+  if (target) target.classList.add("active");
+};
+
+syncActiveTabPanel(".season-tab", ".season-panel", "seasonTarget");
+syncActiveTabPanel(".pitch-season-tab", ".pitch-season-panel", "pitchTarget");
+
 
 // Launch polish: close mobile menu on Escape or outside click.
 document.addEventListener("keydown", event => {
