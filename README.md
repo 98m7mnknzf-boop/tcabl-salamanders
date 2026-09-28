@@ -194,3 +194,9 @@ Added official coach-provided photos to every 2026 player card and both coaching
 - Player acquisition history added to every 2026 roster card and roster JSON.
 - Chuck Burnett staff bio updated to include the father-son connection with Ryan Burnett.
 
+
+
+## V21 Results Archive
+- Added a dedicated `results.html` page with the 2026 regular-season and playoff game archive.
+- Added `results-2026.json` as the structured game-by-game source for future Results and player game-log features.
+- Applied the Aug. 1, 2026 official scoring correction for Esteban Fernandez Jr. (error reclassified as a single) to both the archive and 2026 season totals.

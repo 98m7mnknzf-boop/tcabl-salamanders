@@ -1,0 +1,4868 @@
+{
+  "season": 2026,
+  "games": [
+    {
+      "id": "2026-05-21-pocket-gophers",
+      "date": "2026-05-21",
+      "display_date": "May 21, 2026",
+      "home_away": "Home",
+      "opponent": "Pocket Gophers",
+      "salamanders_score": 18,
+      "opponent_score": 5,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "line_score": [
+        {
+          "abbr": "PCKT",
+          "innings": [
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "3"
+          ],
+          "R": 5,
+          "H": 4,
+          "E": 8
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "1",
+            "7",
+            "2",
+            "0",
+            "8",
+            "X"
+          ],
+          "R": 18,
+          "H": 12,
+          "E": 3
+        }
+      ],
+      "batting": [
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 4,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "SS",
+          "AB": 4,
+          "R": 3,
+          "H": 2,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "DH",
+          "AB": 4,
+          "R": 3,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "pos": "P",
+          "AB": 1,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "3B",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": "3B",
+          "AB": 1,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "RF",
+          "AB": 1,
+          "R": 3,
+          "H": 1,
+          "RBI": 1,
+          "BB": 3,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 2,
+          "R": 2,
+          "H": 2,
+          "RBI": 2,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 3,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 2,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "LF",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "4.2",
+          "H": 2,
+          "R": 2,
+          "ER": 2,
+          "BB": 4,
+          "SO": 8,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "2.0",
+          "H": 2,
+          "R": 3,
+          "ER": 0,
+          "BB": 2,
+          "SO": 2,
+          "HR": 0
+        }
+      ],
+      "source_file": "PocketGophers_vs_Salamanders_May_21_2026.pdf"
+    },
+    {
+      "id": "2026-05-23-outlaws",
+      "date": "2026-05-23",
+      "display_date": "May 23, 2026",
+      "home_away": "Home",
+      "opponent": "Outlaws",
+      "salamanders_score": 8,
+      "opponent_score": 23,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "line_score": [
+        {
+          "abbr": "OTLW",
+          "innings": [
+            "2",
+            "4",
+            "0",
+            "7",
+            "1",
+            "1",
+            "8"
+          ],
+          "R": 23,
+          "H": 12,
+          "E": 1
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "3",
+            "0",
+            "3",
+            "1",
+            "1"
+          ],
+          "R": 8,
+          "H": 10,
+          "E": 5
+        }
+      ],
+      "batting": [
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 3,
+          "R": 3,
+          "H": 2,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 4,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 2,
+          "R": 0,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "3B",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "P",
+          "AB": 3,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "LF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "J Miles",
+          "number": null,
+          "pos": "2B",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": "RF",
+          "AB": 3,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "IP": "1.2",
+          "H": 5,
+          "R": 6,
+          "ER": 6,
+          "BB": 3,
+          "SO": 3,
+          "HR": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "IP": "2.1",
+          "H": 4,
+          "R": 7,
+          "ER": 7,
+          "BB": 5,
+          "SO": 5,
+          "HR": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "IP": "2.2",
+          "H": 3,
+          "R": 10,
+          "ER": 2,
+          "BB": 6,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "IP": "0.1",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 1,
+          "HR": 0
+        }
+      ],
+      "source_file": "Outlaws_vs_Salamanders_May_23_2026.pdf"
+    },
+    {
+      "id": "2026-05-28-monarchs",
+      "date": "2026-05-28",
+      "display_date": "May 28, 2026",
+      "home_away": "Away",
+      "opponent": "Monarchs",
+      "salamanders_score": 18,
+      "opponent_score": 1,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "1",
+            "0",
+            "4",
+            "5",
+            "8"
+          ],
+          "R": 18,
+          "H": 13,
+          "E": 3
+        },
+        {
+          "abbr": "MNRC",
+          "innings": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          "R": 1,
+          "H": 2,
+          "E": 8
+        }
+      ],
+      "batting": [
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": null,
+          "AB": 4,
+          "R": 3,
+          "H": 3,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 2,
+          "R": 3,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "SS",
+          "AB": 4,
+          "R": 4,
+          "H": 3,
+          "RBI": 6,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "CF",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "LF",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "3B",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "RF",
+          "AB": 1,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "B Wescom",
+          "number": 2,
+          "pos": "RF",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": "DH",
+          "AB": 2,
+          "R": 2,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "3.0",
+          "H": 1,
+          "R": 1,
+          "ER": 0,
+          "BB": 0,
+          "SO": 5,
+          "HR": 0
+        },
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "IP": "2.0",
+          "H": 1,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 3,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Monarchs_May_28_2026.pdf"
+    },
+    {
+      "id": "2026-06-02-outlaws",
+      "date": "2026-06-02",
+      "display_date": "June 02, 2026",
+      "home_away": "Away",
+      "opponent": "Outlaws",
+      "salamanders_score": 8,
+      "opponent_score": 1,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "1",
+            "0",
+            "2",
+            "0",
+            "1",
+            "3",
+            "1",
+            "0",
+            "0"
+          ],
+          "R": 8,
+          "H": 14,
+          "E": 1
+        },
+        {
+          "abbr": "OTLW",
+          "innings": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 1,
+          "H": 3,
+          "E": 1
+        }
+      ],
+      "batting": [
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 5,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 5,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 5,
+          "R": 2,
+          "H": 4,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "B Wescom",
+          "number": 2,
+          "pos": "RF",
+          "AB": 1,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "LF",
+          "AB": 3,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "3B",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "pos": "P",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "2B",
+          "AB": 1,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "2B",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "5.0",
+          "H": 3,
+          "R": 1,
+          "ER": 0,
+          "BB": 0,
+          "SO": 6,
+          "HR": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "IP": "2.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 1,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "IP": "1.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 2,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "IP": "1.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 2,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Outlaws_Jun_2_2026.pdf"
+    },
+    {
+      "id": "2026-06-09-jalape-os",
+      "date": "2026-06-09",
+      "display_date": "June 09, 2026",
+      "home_away": "Away",
+      "opponent": "Jalapeños",
+      "salamanders_score": 12,
+      "opponent_score": 10,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "6",
+            "0",
+            "2",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "2"
+          ],
+          "R": 12,
+          "H": 12,
+          "E": 3
+        },
+        {
+          "abbr": "JLPÑ",
+          "innings": [
+            "1",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "5"
+          ],
+          "R": 10,
+          "H": 8,
+          "E": 4
+        }
+      ],
+      "batting": [
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 4,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 5,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "DH",
+          "AB": 3,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "3B",
+          "AB": 4,
+          "R": 1,
+          "H": 0,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 5,
+          "R": 0,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "LF",
+          "AB": 4,
+          "R": 3,
+          "H": 3,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "RF",
+          "AB": 5,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "pos": "P",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 4,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "2B",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "2.0",
+          "H": 2,
+          "R": 1,
+          "ER": 0,
+          "BB": 2,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "4.2",
+          "H": 6,
+          "R": 4,
+          "ER": 3,
+          "BB": 2,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "IP": "1.1",
+          "H": 0,
+          "R": 1,
+          "ER": 1,
+          "BB": 2,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "IP": "0.0",
+          "H": 0,
+          "R": 4,
+          "ER": 2,
+          "BB": 2,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "IP": "1.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 1,
+          "SO": 1,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Jalapeños_Jun_9_2026.pdf"
+    },
+    {
+      "id": "2026-06-16-pocket-gophers",
+      "date": "2026-06-16",
+      "display_date": "June 16, 2026",
+      "home_away": "Away",
+      "opponent": "Pocket Gophers",
+      "salamanders_score": 6,
+      "opponent_score": 16,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "3",
+            "3",
+            "0",
+            "0"
+          ],
+          "R": 6,
+          "H": 16,
+          "E": 1
+        },
+        {
+          "abbr": "PCKT",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "7",
+            "8",
+            "0",
+            "1"
+          ],
+          "R": 16,
+          "H": 17,
+          "E": 0
+        }
+      ],
+      "batting": [
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "CF",
+          "AB": 4,
+          "R": 2,
+          "H": 3,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "pos": "LF",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 3,
+          "R": 1,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "B Wescom",
+          "number": 2,
+          "pos": "2B",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "3.1",
+          "H": 6,
+          "R": 2,
+          "ER": 2,
+          "BB": 2,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "IP": "0.1",
+          "H": 4,
+          "R": 5,
+          "ER": 5,
+          "BB": 3,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "IP": "1.0",
+          "H": 5,
+          "R": 6,
+          "ER": 6,
+          "BB": 2,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "IP": "1.1",
+          "H": 2,
+          "R": 3,
+          "ER": 3,
+          "BB": 5,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "IP": "0.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 1,
+          "SO": 0,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_PocketGophers_Jun_16_2026.pdf"
+    },
+    {
+      "id": "2026-06-23-outlaws",
+      "date": "2026-06-23",
+      "display_date": "June 23, 2026",
+      "home_away": "Home",
+      "opponent": "Outlaws",
+      "salamanders_score": 1,
+      "opponent_score": 11,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "OTLW",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "3",
+            "0",
+            "0",
+            "1",
+            "1",
+            "6"
+          ],
+          "R": 11,
+          "H": 15,
+          "E": 2
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 1,
+          "H": 4,
+          "E": 3
+        }
+      ],
+      "batting": [
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "3B",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "LF",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 3,
+          "R": 0,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "pos": "P",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "2B",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "3.2",
+          "H": 6,
+          "R": 3,
+          "ER": 3,
+          "BB": 1,
+          "SO": 3,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "4.1",
+          "H": 5,
+          "R": 2,
+          "ER": 1,
+          "BB": 0,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "IP": "0.2",
+          "H": 4,
+          "R": 6,
+          "ER": 6,
+          "BB": 4,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "IP": "0.1",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 0,
+          "HR": 0
+        }
+      ],
+      "source_file": "Outlaws_vs_Salamanders_Jun_23_2026.pdf"
+    },
+    {
+      "id": "2026-06-25-gunners",
+      "date": "2026-06-25",
+      "display_date": "June 25, 2026",
+      "home_away": "Away",
+      "opponent": "Gunners",
+      "salamanders_score": 9,
+      "opponent_score": 11,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "7"
+          ],
+          "R": 9,
+          "H": 9,
+          "E": 4
+        },
+        {
+          "abbr": "GNNR",
+          "innings": [
+            "4",
+            "0",
+            "0",
+            "5",
+            "0",
+            "1",
+            "1"
+          ],
+          "R": 11,
+          "H": 7,
+          "E": 4
+        }
+      ],
+      "batting": [
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "P",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "LF",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "RF",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "pos": "SS",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "3B",
+          "AB": 3,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "DH",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "IP": "5.0",
+          "H": 6,
+          "R": 9,
+          "ER": 4,
+          "BB": 8,
+          "SO": 8,
+          "HR": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "IP": "1.2",
+          "H": 1,
+          "R": 2,
+          "ER": 1,
+          "BB": 4,
+          "SO": 3,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Gunners_Jun_25_2026.pdf"
+    },
+    {
+      "id": "2026-07-01-gunners",
+      "date": "2026-07-01",
+      "display_date": "July 01, 2026",
+      "home_away": "Home",
+      "opponent": "Gunners",
+      "salamanders_score": 1,
+      "opponent_score": 2,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "line_score": [
+        {
+          "abbr": "GNNR",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "1"
+          ],
+          "R": 2,
+          "H": 7,
+          "E": 2
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          "R": 1,
+          "H": 10,
+          "E": 1
+        }
+      ],
+      "batting": [
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "LF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 4,
+          "R": 0,
+          "H": 3,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "SS",
+          "AB": 4,
+          "R": 0,
+          "H": 3,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "pos": "P",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "RF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": null,
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "C",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 1,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "B Wescom",
+          "number": 2,
+          "pos": "3B",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "5.0",
+          "H": 1,
+          "R": 0,
+          "ER": 0,
+          "BB": 4,
+          "SO": 7,
+          "HR": 0
+        },
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "IP": "6.0",
+          "H": 6,
+          "R": 2,
+          "ER": 0,
+          "BB": 3,
+          "SO": 4,
+          "HR": 0
+        }
+      ],
+      "source_file": "Gunners_vs_Salamanders_Jul_1_2026.pdf"
+    },
+    {
+      "id": "2026-07-11-monarchs",
+      "date": "2026-07-11",
+      "display_date": "July 11, 2026",
+      "home_away": "Home",
+      "opponent": "Monarchs",
+      "salamanders_score": 13,
+      "opponent_score": 4,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "MNRC",
+          "innings": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "3",
+            "0"
+          ],
+          "R": 4,
+          "H": 5,
+          "E": 3
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "4",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "2",
+            "5",
+            "X"
+          ],
+          "R": 13,
+          "H": 15,
+          "E": 3
+        }
+      ],
+      "batting": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "SS",
+          "AB": 4,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "LF",
+          "AB": 4,
+          "R": 3,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 3,
+          "R": 2,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 4,
+          "R": 2,
+          "H": 4,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "pos": "RF",
+          "AB": 4,
+          "R": 2,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 2,
+          "R": 0,
+          "H": 2,
+          "RBI": 3,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "B Wescom",
+          "number": 2,
+          "pos": "RF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": null,
+          "AB": 1,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "1B",
+          "AB": 2,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "7.2",
+          "H": 5,
+          "R": 4,
+          "ER": 2,
+          "BB": 2,
+          "SO": 3,
+          "HR": 1
+        },
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "IP": "1.1",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 2,
+          "HR": 0
+        }
+      ],
+      "source_file": "Monarchs_vs_Salamanders_Jul_11_2026.pdf"
+    },
+    {
+      "id": "2026-07-11-gunners",
+      "date": "2026-07-11",
+      "display_date": "July 11, 2026",
+      "home_away": "Home",
+      "opponent": "Gunners",
+      "salamanders_score": 0,
+      "opponent_score": 9,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "line_score": [
+        {
+          "abbr": "GNNR",
+          "innings": [
+            "0",
+            "3",
+            "1",
+            "3",
+            "0",
+            "2",
+            "0"
+          ],
+          "R": 9,
+          "H": 7,
+          "E": 1
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 0,
+          "H": 6,
+          "E": 4
+        }
+      ],
+      "batting": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "SS",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 3,
+          "R": 0,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "LF",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "RF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "pos": "P",
+          "AB": 2,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "B Wescom",
+          "number": 2,
+          "pos": "RF",
+          "AB": 0,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 3,
+          "R": 0,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "3B",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "3.1",
+          "H": 4,
+          "R": 7,
+          "ER": 4,
+          "BB": 6,
+          "SO": 5,
+          "HR": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "IP": "2.2",
+          "H": 2,
+          "R": 2,
+          "ER": 2,
+          "BB": 5,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "IP": "1.0",
+          "H": 1,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 0,
+          "HR": 0
+        }
+      ],
+      "source_file": "Gunners_vs_Salamanders_Jul_11_2026.pdf"
+    },
+    {
+      "id": "2026-07-18-pocket-gophers",
+      "date": "2026-07-18",
+      "display_date": "July 18, 2026",
+      "home_away": "Away",
+      "opponent": "Pocket Gophers",
+      "salamanders_score": 6,
+      "opponent_score": 7,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "3"
+          ],
+          "R": 6,
+          "H": 9,
+          "E": 8
+        },
+        {
+          "abbr": "PCKT",
+          "innings": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "1",
+            "0",
+            "1"
+          ],
+          "R": 7,
+          "H": 7,
+          "E": 4
+        }
+      ],
+      "batting": [
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 5,
+          "R": 2,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 5,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "CF",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "B Wescom",
+          "number": 2,
+          "pos": "2B",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "D Hager",
+          "number": null,
+          "pos": "LF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 2,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "B Marceaux",
+          "number": null,
+          "pos": "C",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "8.2",
+          "H": 7,
+          "R": 7,
+          "ER": 1,
+          "BB": 2,
+          "SO": 1,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_PocketGophers_Jul_18_2026.pdf"
+    },
+    {
+      "id": "2026-07-21-outlaws",
+      "date": "2026-07-21",
+      "display_date": "July 21, 2026",
+      "home_away": "Away",
+      "opponent": "Outlaws",
+      "salamanders_score": 3,
+      "opponent_score": 12,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 3,
+          "H": 7,
+          "E": 5
+        },
+        {
+          "abbr": "OTLW",
+          "innings": [
+            "0",
+            "0",
+            "7",
+            "1",
+            "0",
+            "2",
+            "1",
+            "1"
+          ],
+          "R": 12,
+          "H": 12,
+          "E": 3
+        }
+      ],
+      "batting": [
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "CF",
+          "AB": 2,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "P",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 3,
+          "R": 0,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "LF",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "RF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "3B",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "2B",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "B Marceaux",
+          "number": null,
+          "pos": "C",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "IP": "7.0",
+          "H": 11,
+          "R": 11,
+          "ER": 10,
+          "BB": 4,
+          "SO": 7,
+          "HR": 1
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "IP": "0.2",
+          "H": 1,
+          "R": 1,
+          "ER": 1,
+          "BB": 2,
+          "SO": 1,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Outlaws_Jul_21_2026.pdf"
+    },
+    {
+      "id": "2026-07-25-jalape-os",
+      "date": "2026-07-25",
+      "display_date": "July 25, 2026",
+      "home_away": "Home",
+      "opponent": "Jalapeños",
+      "salamanders_score": 8,
+      "opponent_score": 1,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "JLPÑ",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 1,
+          "H": 6,
+          "E": 0
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "0",
+            "2",
+            "3",
+            "0",
+            "X"
+          ],
+          "R": 8,
+          "H": 14,
+          "E": 1
+        }
+      ],
+      "batting": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "P",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "Noah Steele",
+          "number": null,
+          "pos": "SS",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "LF",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 4,
+          "R": 3,
+          "H": 3,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "RF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": null,
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 3,
+          "R": 2,
+          "H": 3,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "IP": "9.0",
+          "H": 6,
+          "R": 1,
+          "ER": 1,
+          "BB": 1,
+          "SO": 7,
+          "HR": 0
+        }
+      ],
+      "source_file": "Jalapeños_vs_Salamanders_Jul_25_2026.pdf"
+    },
+    {
+      "id": "2026-07-28-jalape-os",
+      "date": "2026-07-28",
+      "display_date": "July 28, 2026",
+      "home_away": "Away",
+      "opponent": "Jalapeños",
+      "salamanders_score": 12,
+      "opponent_score": 6,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "4",
+            "0",
+            "2",
+            "1",
+            "0",
+            "4",
+            "1"
+          ],
+          "R": 12,
+          "H": 12,
+          "E": 6
+        },
+        {
+          "abbr": "JLPÑ",
+          "innings": [
+            "0",
+            "2",
+            "1",
+            "0",
+            "1",
+            "1",
+            "1"
+          ],
+          "R": 6,
+          "H": 8,
+          "E": 3
+        }
+      ],
+      "batting": [
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 5,
+          "R": 4,
+          "H": 3,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 3,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "LF",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 2,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "P",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 1,
+          "R": 0,
+          "H": 1,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "RF",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 2,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "2B",
+          "AB": 1,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 3,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Zero",
+          "number": 9,
+          "pos": "C",
+          "AB": 3,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "IP": "6.0",
+          "H": 7,
+          "R": 5,
+          "ER": 4,
+          "BB": 6,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "IP": "1.0",
+          "H": 1,
+          "R": 1,
+          "ER": 0,
+          "BB": 2,
+          "SO": 1,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Jalapeños_Jul_28_2026.pdf"
+    },
+    {
+      "id": "2026-07-30-monarchs",
+      "date": "2026-07-30",
+      "display_date": "July 30, 2026",
+      "home_away": "Away",
+      "opponent": "Monarchs",
+      "salamanders_score": 12,
+      "opponent_score": 16,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "3",
+            "5",
+            "1",
+            "1"
+          ],
+          "R": 12,
+          "H": 17,
+          "E": 3
+        },
+        {
+          "abbr": "MNRC",
+          "innings": [
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "8",
+            "5"
+          ],
+          "R": 16,
+          "H": 16,
+          "E": 1
+        }
+      ],
+      "batting": [
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 2,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Noah Steele",
+          "number": null,
+          "pos": "SS",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 4,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "LF",
+          "AB": 3,
+          "R": 1,
+          "H": 2,
+          "RBI": 2,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "DH",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "LF",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "2B",
+          "AB": 4,
+          "R": 2,
+          "H": 3,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Fiana",
+          "number": null,
+          "pos": "RF",
+          "AB": 3,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "5.0",
+          "H": 6,
+          "R": 3,
+          "ER": 2,
+          "BB": 0,
+          "SO": 6,
+          "HR": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "IP": "3.0",
+          "H": 10,
+          "R": 13,
+          "ER": 9,
+          "BB": 4,
+          "SO": 4,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Monarchs_Jul_30_2026.pdf"
+    },
+    {
+      "id": "2026-08-01-pocket-gophers",
+      "date": "2026-08-01",
+      "display_date": "August 01, 2026",
+      "home_away": "Home",
+      "opponent": "Pocket Gophers",
+      "salamanders_score": 12,
+      "opponent_score": 1,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "line_score": [
+        {
+          "abbr": "PCKT",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 1,
+          "H": 2,
+          "E": 2
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "1",
+            "0",
+            "1",
+            "7",
+            "0",
+            "3",
+            "X"
+          ],
+          "R": 12,
+          "H": 15,
+          "E": 3
+        }
+      ],
+      "batting": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "P",
+          "AB": 3,
+          "R": 3,
+          "H": 3,
+          "RBI": 4,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "SS",
+          "AB": 4,
+          "R": 2,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "1B",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "RF",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 3,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 3,
+          "R": 3,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": "LF",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "IP": "7.0",
+          "H": 2,
+          "R": 1,
+          "ER": 0,
+          "BB": 4,
+          "SO": 11,
+          "HR": 0
+        }
+      ],
+      "source_file": "PocketGophers_vs_Salamanders_Aug_1_2026.pdf",
+      "correction_note": "Official Salamanders scoring correction: one Esteban Fernandez Jr. batted ball was reclassified from an error to a single."
+    },
+    {
+      "id": "2026-08-04-monarchs",
+      "date": "2026-08-04",
+      "display_date": "August 04, 2026",
+      "home_away": "Home",
+      "opponent": "Monarchs",
+      "salamanders_score": 14,
+      "opponent_score": 9,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "line_score": [
+        {
+          "abbr": "MNRC",
+          "innings": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "1",
+            "4",
+            "1",
+            "0"
+          ],
+          "R": 9,
+          "H": 10,
+          "E": 5
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "4",
+            "5",
+            "2"
+          ],
+          "R": 14,
+          "H": 25,
+          "E": 9
+        }
+      ],
+      "batting": [
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "SS",
+          "AB": 6,
+          "R": 3,
+          "H": 4,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 5,
+          "R": 2,
+          "H": 3,
+          "RBI": 3,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 5,
+          "R": 1,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 5,
+          "R": 1,
+          "H": 3,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 5,
+          "R": 0,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "LF",
+          "AB": 5,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 5,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 5,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "C",
+          "AB": 5,
+          "R": 3,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "5.0",
+          "H": 7,
+          "R": 8,
+          "ER": 2,
+          "BB": 2,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "IP": "3.0",
+          "H": 3,
+          "R": 1,
+          "ER": 0,
+          "BB": 1,
+          "SO": 3,
+          "HR": 0
+        }
+      ],
+      "source_file": "Monarchs_vs_Salamanders_Aug_4_2026.pdf"
+    },
+    {
+      "id": "2026-08-08-gunners",
+      "date": "2026-08-08",
+      "display_date": "August 08, 2026",
+      "home_away": "Away",
+      "opponent": "Gunners",
+      "salamanders_score": 9,
+      "opponent_score": 3,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "4",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "3"
+          ],
+          "R": 9,
+          "H": 8,
+          "E": 1
+        },
+        {
+          "abbr": "GNNR",
+          "innings": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 3,
+          "H": 10,
+          "E": 4
+        }
+      ],
+      "batting": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "P",
+          "AB": 4,
+          "R": 2,
+          "H": 3,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": null,
+          "AB": 4,
+          "R": 2,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": null,
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": null,
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": null,
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": null,
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "pos": "P",
+          "AB": 3,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "IP": "8.0",
+          "H": 10,
+          "R": 3,
+          "ER": 3,
+          "BB": 5,
+          "SO": 5,
+          "HR": 0
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "1.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 2,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Gunners_Aug_8_2026.pdf"
+    },
+    {
+      "id": "2026-08-13-jalape-os",
+      "date": "2026-08-13",
+      "display_date": "August 13, 2026",
+      "home_away": "Home",
+      "opponent": "Jalapeños",
+      "salamanders_score": 9,
+      "opponent_score": 8,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "line_score": [
+        {
+          "abbr": "JLPÑ",
+          "innings": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "R": 8,
+          "H": 14,
+          "E": 0
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "7"
+          ],
+          "R": 9,
+          "H": 9,
+          "E": 2
+        }
+      ],
+      "batting": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "SS",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "CF",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "RF",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "LF",
+          "AB": 2,
+          "R": 0,
+          "H": 1,
+          "RBI": 2,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 2,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "LF",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "2.0",
+          "H": 4,
+          "R": 2,
+          "ER": 1,
+          "BB": 0,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "IP": "6.0",
+          "H": 10,
+          "R": 6,
+          "ER": 6,
+          "BB": 3,
+          "SO": 5,
+          "HR": 0
+        }
+      ],
+      "source_file": "Jalapeños_vs_Salamanders_Aug_13_2026.pdf"
+    },
+    {
+      "id": "2026-08-18-monarchs",
+      "date": "2026-08-18",
+      "display_date": "August 18, 2026",
+      "home_away": "Home",
+      "opponent": "Monarchs",
+      "salamanders_score": 11,
+      "opponent_score": 7,
+      "result": "W",
+      "season_type": "postseason",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "MNRC",
+          "innings": [
+            "0",
+            "2",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "3",
+            "0"
+          ],
+          "R": 7,
+          "H": 10,
+          "E": 3
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "2",
+            "5",
+            "0",
+            "1",
+            "0",
+            "3",
+            "0",
+            "0",
+            "X"
+          ],
+          "R": 11,
+          "H": 12,
+          "E": 2
+        }
+      ],
+      "batting": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "SS",
+          "AB": 5,
+          "R": 1,
+          "H": 3,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "LF",
+          "AB": 4,
+          "R": 3,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 1,
+          "R": 2,
+          "H": 1,
+          "RBI": 2,
+          "BB": 3,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 5,
+          "R": 2,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": null,
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": null,
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 2,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 5,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "4.0",
+          "H": 4,
+          "R": 3,
+          "ER": 3,
+          "BB": 1,
+          "SO": 6,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "5.0",
+          "H": 6,
+          "R": 4,
+          "ER": 3,
+          "BB": 2,
+          "SO": 3,
+          "HR": 0
+        }
+      ],
+      "source_file": "Monarchs_vs_Salamanders_Aug_18_2026.pdf"
+    },
+    {
+      "id": "2026-08-20-gunners",
+      "date": "2026-08-20",
+      "display_date": "August 20, 2026",
+      "home_away": "Away",
+      "opponent": "Gunners",
+      "salamanders_score": 6,
+      "opponent_score": 5,
+      "result": "W",
+      "season_type": "postseason",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "2",
+            "0",
+            "1",
+            "0",
+            "2"
+          ],
+          "R": 6,
+          "H": 11,
+          "E": 1
+        },
+        {
+          "abbr": "GNNR",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "1",
+            "1",
+            "1"
+          ],
+          "R": 5,
+          "H": 9,
+          "E": 1
+        }
+      ],
+      "batting": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "P",
+          "AB": 4,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": null,
+          "AB": 5,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": null,
+          "AB": 5,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": null,
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": null,
+          "AB": 5,
+          "R": 1,
+          "H": 2,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": null,
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": null,
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": null,
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": null,
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "IP": "9.0",
+          "H": 9,
+          "R": 5,
+          "ER": 4,
+          "BB": 6,
+          "SO": 10,
+          "HR": 1
+        }
+      ],
+      "source_file": "Salamanders_vs_Gunners_Aug_20_2026.pdf"
+    },
+    {
+      "id": "2026-08-21-gunners",
+      "date": "2026-08-21",
+      "display_date": "August 21, 2026",
+      "home_away": "Home",
+      "opponent": "Gunners",
+      "salamanders_score": 2,
+      "opponent_score": 3,
+      "result": "L",
+      "season_type": "postseason",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "GNNR",
+          "innings": [
+            "0",
+            "1",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 3,
+          "H": 7,
+          "E": 2
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 2,
+          "H": 10,
+          "E": 1
+        }
+      ],
+      "batting": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "SS",
+          "AB": 5,
+          "R": 1,
+          "H": 3,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "LF",
+          "AB": 5,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 4,
+          "R": 0,
+          "H": 3,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "LF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": null,
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Adrian Echeverri",
+          "number": 21,
+          "pos": "RF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "7.0",
+          "H": 7,
+          "R": 3,
+          "ER": 2,
+          "BB": 4,
+          "SO": 8,
+          "HR": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "IP": "2.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 2,
+          "SO": 4,
+          "HR": 0
+        }
+      ],
+      "source_file": "Gunners_vs_Salamanders_Aug_21_2026.pdf"
+    },
+    {
+      "id": "2026-08-22-gunners",
+      "date": "2026-08-22",
+      "display_date": "August 22, 2026",
+      "home_away": "Away",
+      "opponent": "Gunners",
+      "salamanders_score": 5,
+      "opponent_score": 6,
+      "result": "L",
+      "season_type": "postseason",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "2",
+            "0",
+            "0"
+          ],
+          "R": 5,
+          "H": 10,
+          "E": 4
+        },
+        {
+          "abbr": "GNNR",
+          "innings": [
+            "1",
+            "0",
+            "5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "X"
+          ],
+          "R": 6,
+          "H": 10,
+          "E": 4
+        }
+      ],
+      "batting": [
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "pos": "SS",
+          "AB": 5,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "pos": "LF",
+          "AB": 4,
+          "R": 3,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jeff Buelow",
+          "number": 28,
+          "pos": "C",
+          "AB": 5,
+          "R": 0,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Sean Adams",
+          "number": 35,
+          "pos": "1B",
+          "AB": 5,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 5,
+          "R": 0,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "LF",
+          "AB": 5,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": null,
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Brian Smith",
+          "number": 7,
+          "pos": "CF",
+          "AB": 4,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "2.1",
+          "H": 3,
+          "R": 5,
+          "ER": 5,
+          "BB": 5,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "Sean Thornton",
+          "number": 22,
+          "IP": "0.2",
+          "H": 1,
+          "R": 1,
+          "ER": 1,
+          "BB": 1,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "Alex Gonzales",
+          "number": 13,
+          "IP": "1.0",
+          "H": 2,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "Ryan Burnett",
+          "number": 1,
+          "IP": "4.0",
+          "H": 4,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 4,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Gunners_Aug_22_2026.pdf"
+    }
+  ]
+}

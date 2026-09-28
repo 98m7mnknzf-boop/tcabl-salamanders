@@ -1217,3 +1217,92 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
 @media(max-width:480px){
   .roster-acquisition{font-size:9.5px}
 }
+
+
+/* V21 Results Archive */
+.results-page{background:#090909}
+.results-page .site-nav a[aria-current="page"]{color:var(--gold)}
+.results-hero{
+  position:relative;overflow:hidden;border-bottom:1px solid rgba(255,255,255,.08);
+  background:
+    radial-gradient(circle at 88% 22%,rgba(215,25,32,.28),transparent 29%),
+    radial-gradient(circle at 76% 88%,rgba(242,194,48,.10),transparent 26%),
+    linear-gradient(120deg,#050505 0%,#111 60%,#220507 100%);
+}
+.results-hero-inner{width:min(var(--max),calc(100% - 48px));margin:auto;padding:96px 0 72px}
+.results-hero h1{font-size:clamp(68px,9vw,126px);line-height:.86;margin:12px 0 24px;max-width:920px}
+.results-hero h1 span{color:var(--gold)}
+.results-hero p{max-width:760px;color:#bbb;font-size:17px;line-height:1.7}
+.results-archive-stats{display:flex;gap:36px;flex-wrap:wrap;margin-top:38px}
+.results-archive-stats div{min-width:130px;border-top:2px solid rgba(242,194,48,.35);padding-top:11px}
+.results-archive-stats strong{display:block;font:400 42px/1 "Bebas Neue";color:white}
+.results-archive-stats span{display:block;margin-top:4px;color:#999;font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.08em}
+.results-archive-section{padding-top:64px}
+.results-toolbar{display:flex;align-items:flex-end;justify-content:space-between;gap:28px;margin-bottom:12px}
+.results-toolbar h2{margin:4px 0 0;font-size:clamp(46px,6vw,76px)}
+.results-filters{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.results-filter{border:1px solid rgba(255,255,255,.14);background:#111;color:#aaa;border-radius:999px;padding:10px 16px;font:800 12px/1 Inter,sans-serif;cursor:pointer}
+.results-filter:hover{border-color:rgba(242,194,48,.45);color:white}
+.results-filter.active{background:var(--red);border-color:var(--red);color:white}
+.results-filter.postseason-filter.active{background:var(--gold);border-color:var(--gold);color:#111}
+.results-help{margin:0 0 26px;color:#858585;font-size:13px}
+.results-list{display:grid;gap:14px}
+.game-card{border:1px solid rgba(255,255,255,.09);border-radius:18px;background:#0e0e0e;overflow:hidden;box-shadow:0 12px 30px rgba(0,0,0,.16)}
+.game-card[hidden]{display:none}
+.game-summary{list-style:none;display:grid;grid-template-columns:54px minmax(0,1fr) auto;align-items:center;gap:18px;padding:18px 20px;cursor:pointer;user-select:none}
+.game-summary::-webkit-details-marker{display:none}
+.game-summary:hover{background:rgba(255,255,255,.018)}
+.game-result{width:48px;height:48px;border-radius:13px;display:grid;place-items:center;font:400 28px/1 "Bebas Neue";border:1px solid rgba(255,255,255,.10)}
+.game-result.win{background:rgba(242,194,48,.12);border-color:rgba(242,194,48,.45);color:var(--gold)}
+.game-result.loss{background:rgba(215,25,32,.12);border-color:rgba(215,25,32,.40);color:#ff676d}
+.game-result.tie{color:#bbb}
+.game-date-row{display:flex;align-items:center;gap:9px;flex-wrap:wrap;color:#8d8d8d;font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase}
+.game-summary-main h3{margin:5px 0 3px;font-size:30px}
+.game-location{color:#777;font-size:12px}
+.playoff-badge,.regular-badge{display:inline-flex;border-radius:999px;padding:4px 7px;font-size:9px;font-weight:900;letter-spacing:.08em}
+.playoff-badge{background:var(--gold);color:#111}
+.regular-badge{border:1px solid rgba(255,255,255,.12);color:#999}
+.game-final{text-align:right;min-width:126px}
+.game-final strong{display:block;font:400 36px/1 "Bebas Neue";color:white}
+.game-final span{display:block;margin-top:5px;color:var(--gold);font-size:10px;font-weight:900;text-transform:uppercase;letter-spacing:.08em}
+.game-card[open] .game-summary{border-bottom:1px solid rgba(255,255,255,.08);background:#111}
+.game-card[open] .game-final span::after{content:" · CLOSE"}
+.game-details{padding:20px;background:#0a0a0a}
+.boxscore-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:18px;align-items:start}
+.boxscore-block{border:1px solid rgba(255,255,255,.08);border-radius:14px;background:#0f0f0f;overflow:hidden}
+.boxscore-heading{display:flex;justify-content:space-between;align-items:center;gap:14px;padding:13px 15px;border-bottom:1px solid rgba(255,255,255,.07)}
+.boxscore-heading span{color:var(--gold);font-size:10px;font-weight:900;letter-spacing:.12em}
+.boxscore-heading strong{font-size:13px;color:#ddd}
+.game-table-wrap{overflow-x:auto}
+.game-table{width:100%;border-collapse:collapse;min-width:520px;font-size:12px}
+.game-table th,.game-table td{padding:10px 11px;border-bottom:1px solid rgba(255,255,255,.055);text-align:right;white-space:nowrap}
+.game-table thead th{background:#0b0b0b;color:#888;font-size:10px;letter-spacing:.06em;text-transform:uppercase}
+.game-table th:first-child,.game-table td:first-child{text-align:left}
+.game-table tbody tr:last-child th,.game-table tbody tr:last-child td{border-bottom:0}
+.game-table .player-cell{font-weight:700;color:#e8e8e8}
+.game-table .player-cell span{color:#888;font-size:10px}
+.game-table .player-cell small{color:#777;font-size:9px;margin-left:3px}
+.line-score-wrap .game-table{min-width:600px}
+.line-score .salamanders-line{background:rgba(242,194,48,.055)}
+.line-score .salamanders-line th{color:var(--gold)}
+.line-score .total-col{font-weight:900;color:white}
+.scoring-correction{margin-top:14px;border-left:3px solid var(--gold);background:rgba(242,194,48,.07);padding:11px 14px;color:#aaa;font-size:12px;line-height:1.55}
+.scoring-correction strong{color:var(--gold)}
+.results-error{padding:22px;border:1px solid rgba(215,25,32,.4);border-radius:14px;background:rgba(215,25,32,.08);color:#ddd}
+@media(max-width:900px){
+  .results-toolbar{align-items:flex-start;flex-direction:column}
+  .results-filters{justify-content:flex-start}
+  .boxscore-grid{grid-template-columns:1fr}
+}
+@media(max-width:640px){
+  .results-hero-inner{width:min(var(--max),calc(100% - 30px));padding:70px 0 54px}
+  .results-archive-stats{gap:18px}
+  .results-archive-stats div{min-width:95px}
+  .game-summary{grid-template-columns:44px minmax(0,1fr);gap:12px;padding:15px}
+  .game-result{width:42px;height:42px}
+  .game-final{grid-column:2;text-align:left;display:flex;align-items:center;gap:10px;min-width:0}
+  .game-final strong{font-size:30px}
+  .game-final span{margin:0}
+  .game-details{padding:14px}
+  .game-summary-main h3{font-size:26px}
+}
