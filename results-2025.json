@@ -1,0 +1,4967 @@
+{
+  "season": 2025,
+  "games": [
+    {
+      "id": "2025-06-03-razorbats",
+      "date": "2025-06-03",
+      "display_date": "Jun 3, 2025",
+      "home_away": "Away",
+      "opponent": "Razorbats",
+      "salamanders_score": 9,
+      "opponent_score": 7,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "2",
+            "0",
+            "0",
+            "2",
+            "3",
+            "0",
+            "2",
+            "0"
+          ],
+          "R": 9,
+          "H": 11,
+          "E": 0
+        },
+        {
+          "abbr": "RZRB",
+          "innings": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "6",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 7,
+          "H": 6,
+          "E": 2
+        }
+      ],
+      "batting": [
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "2B",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 2,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 3,
+          "R": 3,
+          "H": 3,
+          "RBI": 2,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": "DH",
+          "AB": 2,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "1B",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "C",
+          "AB": 3,
+          "R": 0,
+          "H": 2,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": "LF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Brandon Wescom",
+          "number": 2,
+          "pos": "RF",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "1.1",
+          "H": 1,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "IP": "3.2",
+          "H": 5,
+          "R": 7,
+          "ER": 6,
+          "BB": 5,
+          "SO": 5,
+          "HR": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "IP": "3.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 1,
+          "SO": 0,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "G Ziser",
+          "number": 9,
+          "pos": "LF",
+          "AB": 2,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "C Johnson",
+          "number": 7,
+          "pos": "C",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "B Gray",
+          "number": 3,
+          "pos": "CF",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "M Domanski",
+          "number": 14,
+          "pos": "1B",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "C Crowley-Hall",
+          "number": 24,
+          "pos": "SS",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "A Rivera",
+          "number": 21,
+          "pos": "3B",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "A Cole",
+          "number": 51,
+          "pos": "P",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "R Terrio",
+          "number": null,
+          "pos": "2B",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "J Beckerman",
+          "number": null,
+          "pos": "RF",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "A Cole",
+          "number": 51,
+          "IP": "4.0",
+          "H": 7,
+          "R": 4,
+          "ER": 4,
+          "BB": 0,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "J Beckerman",
+          "number": null,
+          "IP": "3.0",
+          "H": 4,
+          "R": 5,
+          "ER": 5,
+          "BB": 2,
+          "SO": 3,
+          "HR": 0
+        },
+        {
+          "player": "C Crowley-Hall",
+          "number": 24,
+          "IP": "1.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 1,
+          "SO": 1,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Razorbats_Jun_3_2025.pdf"
+    },
+    {
+      "id": "2025-06-07-jalapenos",
+      "date": "2025-06-07",
+      "display_date": "Jun 7, 2025",
+      "home_away": "Home",
+      "opponent": "Jalapeños",
+      "salamanders_score": 5,
+      "opponent_score": 14,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "line_score": [
+        {
+          "abbr": "JLPÑ",
+          "innings": [
+            "0",
+            "2",
+            "0",
+            "2",
+            "1",
+            "0",
+            "9"
+          ],
+          "R": 14,
+          "H": 10,
+          "E": 2
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "4",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 5,
+          "H": 11,
+          "E": 3
+        }
+      ],
+      "batting": [
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "3B",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 4,
+          "R": 1,
+          "H": 3,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "1B",
+          "AB": 4,
+          "R": 2,
+          "H": 3,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": "LF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": "C",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "P",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Brandon Wescom",
+          "number": 2,
+          "pos": "2B",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "IP": "4.2",
+          "H": 3,
+          "R": 5,
+          "ER": 5,
+          "BB": 10,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "IP": "2.0",
+          "H": 7,
+          "R": 9,
+          "ER": 1,
+          "BB": 1,
+          "SO": 5,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "0.1",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 2,
+          "SO": 1,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "S Riley",
+          "number": 20,
+          "pos": "1B",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 2,
+          "BB": 3,
+          "SO": 1
+        },
+        {
+          "player": "T Gundle",
+          "number": 18,
+          "pos": "2B",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 4
+        },
+        {
+          "player": "N Jordan",
+          "number": 45,
+          "pos": "C",
+          "AB": 1,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 3,
+          "SO": 1
+        },
+        {
+          "player": "B Morihara",
+          "number": 15,
+          "pos": "LF",
+          "AB": 5,
+          "R": 1,
+          "H": 2,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "C Hubbs",
+          "number": 94,
+          "pos": "SS",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "S Augustine",
+          "number": 13,
+          "pos": "RF",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "C Pease",
+          "number": 37,
+          "pos": "P",
+          "AB": 5,
+          "R": 2,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "G Zimmerman",
+          "number": 16,
+          "pos": "3B",
+          "AB": 2,
+          "R": 3,
+          "H": 2,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "S Rodriguez",
+          "number": 21,
+          "pos": "CF",
+          "AB": 2,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 1
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "C Pease",
+          "number": 37,
+          "IP": "7.0",
+          "H": 11,
+          "R": 5,
+          "ER": 4,
+          "BB": 2,
+          "SO": 9,
+          "HR": 0
+        }
+      ],
+      "source_file": "Jalapeños_vs_Salamanders_Jun_7_2025.pdf"
+    },
+    {
+      "id": "2025-06-10-outlaws",
+      "date": "2025-06-10",
+      "display_date": "Jun 10, 2025",
+      "home_away": "Home",
+      "opponent": "Outlaws",
+      "salamanders_score": 9,
+      "opponent_score": 14,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "OTLW",
+          "innings": [
+            "1",
+            "0",
+            "0",
+            "2",
+            "1",
+            "1",
+            "4",
+            "0",
+            "5"
+          ],
+          "R": 14,
+          "H": 14,
+          "E": 4
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "4",
+            "1",
+            "0",
+            "3",
+            "0"
+          ],
+          "R": 9,
+          "H": 11,
+          "E": 5
+        }
+      ],
+      "batting": [
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "2B",
+          "AB": 4,
+          "R": 3,
+          "H": 0,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 5,
+          "R": 0,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "1B",
+          "AB": 5,
+          "R": 1,
+          "H": 4,
+          "RBI": 4,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "LF",
+          "AB": 5,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "C",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 5,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 2
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 3,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": "RF",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "J Dircks",
+          "number": null,
+          "pos": "P",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "J Dircks",
+          "number": null,
+          "IP": "6.0",
+          "H": 10,
+          "R": 9,
+          "ER": 6,
+          "BB": 2,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "3.0",
+          "H": 4,
+          "R": 5,
+          "ER": 0,
+          "BB": 4,
+          "SO": 2,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "J Schumacher",
+          "number": 3,
+          "pos": "C",
+          "AB": 3,
+          "R": 2,
+          "H": 3,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "C Walker",
+          "number": 5,
+          "pos": "1B",
+          "AB": 5,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "D Mercado",
+          "number": 24,
+          "pos": "3B",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 2,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "S Watkins",
+          "number": 4,
+          "pos": "P",
+          "AB": 5,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "D Ford",
+          "number": 16,
+          "pos": "SS",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "J Phillips",
+          "number": 25,
+          "pos": "RF",
+          "AB": 5,
+          "R": 2,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "J Bolibol",
+          "number": 1,
+          "pos": "2B",
+          "AB": 4,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "S Youckton",
+          "number": 34,
+          "pos": "CF",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "S Mock",
+          "number": 10,
+          "pos": "LF",
+          "AB": 5,
+          "R": 1,
+          "H": 1,
+          "RBI": 4,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "S Thornton",
+          "number": 29,
+          "pos": "RF",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "S Watkins",
+          "number": 4,
+          "IP": "4.1",
+          "H": 4,
+          "R": 5,
+          "ER": 4,
+          "BB": 3,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "C Walker",
+          "number": 5,
+          "IP": "3.2",
+          "H": 6,
+          "R": 4,
+          "ER": 4,
+          "BB": 3,
+          "SO": 3,
+          "HR": 0
+        },
+        {
+          "player": "S Youckton",
+          "number": 34,
+          "IP": "1.0",
+          "H": 1,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 2,
+          "HR": 0
+        }
+      ],
+      "source_file": "Outlaws_vs_Salamanders_Jun_10_2025.pdf"
+    },
+    {
+      "id": "2025-06-14-jalapenos",
+      "date": "2025-06-14",
+      "display_date": "Jun 14, 2025",
+      "home_away": "Away",
+      "opponent": "Jalapeños",
+      "salamanders_score": 8,
+      "opponent_score": 12,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "1",
+            "2",
+            "0",
+            "0",
+            "2",
+            "1",
+            "0",
+            "2"
+          ],
+          "R": 8,
+          "H": 8,
+          "E": 8
+        },
+        {
+          "abbr": "JLPÑ",
+          "innings": [
+            "0",
+            "1",
+            "3",
+            "4",
+            "3",
+            "1",
+            "0",
+            "X"
+          ],
+          "R": 12,
+          "H": 7,
+          "E": 2
+        }
+      ],
+      "batting": [
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "3B",
+          "AB": 5,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "1B",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "LF",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": "RF",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "W Kramer",
+          "number": null,
+          "pos": "2B",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 1,
+          "R": 2,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "P",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "J Beckerman",
+          "number": null,
+          "pos": "C",
+          "AB": 2,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "IP": "4.0",
+          "H": 4,
+          "R": 8,
+          "ER": 4,
+          "BB": 9,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "W Kramer",
+          "number": null,
+          "IP": "1.0",
+          "H": 2,
+          "R": 3,
+          "ER": 2,
+          "BB": 2,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "2.0",
+          "H": 1,
+          "R": 1,
+          "ER": 0,
+          "BB": 1,
+          "SO": 2,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "C Pease",
+          "number": 37,
+          "pos": "CF",
+          "AB": 5,
+          "R": 3,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "G Zimmerman",
+          "number": 16,
+          "pos": "P",
+          "AB": 5,
+          "R": 3,
+          "H": 3,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "R Maanao",
+          "number": 7,
+          "pos": "LF",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "B Morihara",
+          "number": 15,
+          "pos": "1B",
+          "AB": 2,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 3,
+          "SO": 1
+        },
+        {
+          "player": "C Hubbs",
+          "number": 94,
+          "pos": "SS",
+          "AB": 2,
+          "R": 2,
+          "H": 1,
+          "RBI": 3,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "T Gundle",
+          "number": 18,
+          "pos": "RF",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 3,
+          "SO": 0
+        },
+        {
+          "player": "S Augustine",
+          "number": 13,
+          "pos": "C",
+          "AB": 5,
+          "R": 0,
+          "H": 0,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "R Terrio",
+          "number": null,
+          "pos": "3B",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 2
+        },
+        {
+          "player": "S Rodriguez",
+          "number": 21,
+          "pos": "2B",
+          "AB": 5,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "G Zimmerman",
+          "number": 16,
+          "IP": "3.0",
+          "H": 3,
+          "R": 3,
+          "ER": 1,
+          "BB": 1,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "C Pease",
+          "number": 37,
+          "IP": "5.0",
+          "H": 5,
+          "R": 5,
+          "ER": 4,
+          "BB": 3,
+          "SO": 1,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Jalapeños_Jun_14_2025.pdf"
+    },
+    {
+      "id": "2025-06-17-outlaws",
+      "date": "2025-06-17",
+      "display_date": "Jun 17, 2025",
+      "home_away": "Away",
+      "opponent": "Outlaws",
+      "salamanders_score": 0,
+      "opponent_score": 15,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "R": 0,
+          "H": 5,
+          "E": 5
+        },
+        {
+          "abbr": "OTLW",
+          "innings": [
+            "6",
+            "0",
+            "2",
+            "0",
+            "0",
+            "7",
+            "X"
+          ],
+          "R": 15,
+          "H": 13,
+          "E": 0
+        }
+      ],
+      "batting": [
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "SS",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 3,
+          "R": 0,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "1B",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "C",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "J Dircks",
+          "number": 28,
+          "pos": "P",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 0,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 2,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": "LF",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "J Dircks",
+          "number": 28,
+          "IP": "5.2",
+          "H": 13,
+          "R": 15,
+          "ER": 10,
+          "BB": 3,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "0.1",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 1,
+          "SO": 1,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "J Schumacher",
+          "number": 3,
+          "pos": "C",
+          "AB": 4,
+          "R": 2,
+          "H": 3,
+          "RBI": 3,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "C Walker",
+          "number": 5,
+          "pos": "1B",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "D Mercado",
+          "number": 24,
+          "pos": "3B",
+          "AB": 2,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "S Watkins",
+          "number": 4,
+          "pos": "P",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "D Ford",
+          "number": 16,
+          "pos": "SS",
+          "AB": 4,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "J Phillips",
+          "number": 25,
+          "pos": "LF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "J Bolibol",
+          "number": 1,
+          "pos": "2B",
+          "AB": 4,
+          "R": 3,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "S Youckton",
+          "number": 34,
+          "pos": "CF",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "S Thornton",
+          "number": 29,
+          "pos": "RF",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "S Watkins",
+          "number": 4,
+          "IP": "7.0",
+          "H": 5,
+          "R": 0,
+          "ER": 0,
+          "BB": 1,
+          "SO": 6,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Outlaws_Jun_17_2025.pdf"
+    },
+    {
+      "id": "2025-06-24-jalapenos",
+      "date": "2025-06-24",
+      "display_date": "Jun 24, 2025",
+      "home_away": "Away",
+      "opponent": "Jalapeños",
+      "salamanders_score": 13,
+      "opponent_score": 13,
+      "result": "T",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "2",
+            "3",
+            "0",
+            "5"
+          ],
+          "R": 13,
+          "H": 12,
+          "E": 2
+        },
+        {
+          "abbr": "JLPÑ",
+          "innings": [
+            "3",
+            "2",
+            "0",
+            "5",
+            "0",
+            "1",
+            "2",
+            "0"
+          ],
+          "R": 13,
+          "H": 12,
+          "E": 2
+        }
+      ],
+      "batting": [
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 3,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "2B",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 4,
+          "R": 3,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "LF",
+          "AB": 4,
+          "R": 2,
+          "H": 3,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "C",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 3,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "P",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 4,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": "DH",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "J Dircks",
+          "number": 28,
+          "pos": "1B",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": "C",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Brandon Wescom",
+          "number": 2,
+          "pos": "2B",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "IP": "4.0",
+          "H": 8,
+          "R": 10,
+          "ER": 10,
+          "BB": 10,
+          "SO": 3,
+          "HR": 0
+        },
+        {
+          "player": "J Dircks",
+          "number": 28,
+          "IP": "2.1",
+          "H": 4,
+          "R": 3,
+          "ER": 1,
+          "BB": 2,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "IP": "0.2",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 3,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "1.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 1,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "S Riley",
+          "number": 20,
+          "pos": "3B",
+          "AB": 4,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "C Hubbs",
+          "number": 94,
+          "pos": "P",
+          "AB": 3,
+          "R": 4,
+          "H": 2,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "G Zimmerman",
+          "number": 16,
+          "pos": "2B",
+          "AB": 2,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 3,
+          "SO": 0
+        },
+        {
+          "player": "B Morihara",
+          "number": 15,
+          "pos": null,
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 3,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "S Augustine",
+          "number": 13,
+          "pos": "1B",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 3,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "C Pease",
+          "number": 37,
+          "pos": "SS",
+          "AB": 4,
+          "R": 1,
+          "H": 3,
+          "RBI": 4,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "R Maanao",
+          "number": 7,
+          "pos": "LF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "N Jordan",
+          "number": 45,
+          "pos": "CF",
+          "AB": 5,
+          "R": 1,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "N Bazan",
+          "number": 2,
+          "pos": "RF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "S Rodriguez",
+          "number": 21,
+          "pos": "C",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "C Hubbs",
+          "number": 94,
+          "IP": "5.0",
+          "H": 5,
+          "R": 5,
+          "ER": 3,
+          "BB": 2,
+          "SO": 5,
+          "HR": 0
+        },
+        {
+          "player": "C Pease",
+          "number": 37,
+          "IP": "3.0",
+          "H": 7,
+          "R": 8,
+          "ER": 6,
+          "BB": 5,
+          "SO": 3,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Jalapeños_Jun_24_2025.pdf"
+    },
+    {
+      "id": "2025-06-28-razorbats",
+      "date": "2025-06-28",
+      "display_date": "Jun 28, 2025",
+      "home_away": "Away",
+      "opponent": "Razorbats",
+      "salamanders_score": 6,
+      "opponent_score": 7,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1",
+            "2",
+            "0"
+          ],
+          "R": 6,
+          "H": 19,
+          "E": 4
+        },
+        {
+          "abbr": "RZRB",
+          "innings": [
+            "0",
+            "5",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1"
+          ],
+          "R": 7,
+          "H": 5,
+          "E": 4
+        }
+      ],
+      "batting": [
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 4,
+          "R": 1,
+          "H": 4,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "P",
+          "AB": 4,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 5,
+          "R": 1,
+          "H": 3,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "1B",
+          "AB": 5,
+          "R": 0,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 5,
+          "R": 0,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 4,
+          "R": 1,
+          "H": 3,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "C",
+          "AB": 5,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 5
+        },
+        {
+          "player": "Brandon Wescom",
+          "number": 2,
+          "pos": "2B",
+          "AB": 5,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 4
+        },
+        {
+          "player": "Andrew Molina",
+          "number": null,
+          "pos": "CF",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "J Griffith",
+          "number": null,
+          "pos": "LF",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "IP": "1.2",
+          "H": 1,
+          "R": 5,
+          "ER": 0,
+          "BB": 4,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "IP": "1.1",
+          "H": 1,
+          "R": 0,
+          "ER": 0,
+          "BB": 1,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "5.0",
+          "H": 3,
+          "R": 2,
+          "ER": 0,
+          "BB": 2,
+          "SO": 5,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "G Ziser",
+          "number": 9,
+          "pos": "2B",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "M Daum",
+          "number": 5,
+          "pos": "SS",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "R Terrio",
+          "number": null,
+          "pos": "C",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "B Gray",
+          "number": 3,
+          "pos": "CF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "C Johnson",
+          "number": 7,
+          "pos": "1B",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "A Cole",
+          "number": 51,
+          "pos": "3B",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "C Crowley-Hall",
+          "number": 24,
+          "pos": "P",
+          "AB": 1,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "A Out",
+          "number": null,
+          "pos": null,
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "G Collier",
+          "number": null,
+          "pos": "LF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        },
+        {
+          "player": "S Collier",
+          "number": null,
+          "pos": "RF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "C Crowley-Hall",
+          "number": 24,
+          "IP": "4.0",
+          "H": 9,
+          "R": 3,
+          "ER": 1,
+          "BB": 0,
+          "SO": 7,
+          "HR": 0
+        },
+        {
+          "player": "G Ziser",
+          "number": 9,
+          "IP": "5.0",
+          "H": 10,
+          "R": 3,
+          "ER": 3,
+          "BB": 2,
+          "SO": 7,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Razorbats_Jun_28_2025.pdf"
+    },
+    {
+      "id": "2025-07-01-outlaws",
+      "date": "2025-07-01",
+      "display_date": "Jul 1, 2025",
+      "home_away": "Home",
+      "opponent": "Outlaws",
+      "salamanders_score": 8,
+      "opponent_score": 19,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "line_score": [
+        {
+          "abbr": "OTLW",
+          "innings": [
+            "6",
+            "5",
+            "0",
+            "2",
+            "0",
+            "1",
+            "5"
+          ],
+          "R": 19,
+          "H": 12,
+          "E": 3
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "1",
+            "0",
+            "6",
+            "1",
+            "0",
+            "0"
+          ],
+          "R": 8,
+          "H": 5,
+          "E": 5
+        }
+      ],
+      "batting": [
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "P",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "1B",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "C",
+          "AB": 2,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Andrew Molina",
+          "number": null,
+          "pos": "LF",
+          "AB": 3,
+          "R": 0,
+          "H": 2,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "J Dircks",
+          "number": 28,
+          "pos": "2B",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Brandon Wescom",
+          "number": 2,
+          "pos": "RF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 3
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "IP": "0.1",
+          "H": 0,
+          "R": 5,
+          "ER": 5,
+          "BB": 5,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "IP": "2.2",
+          "H": 5,
+          "R": 6,
+          "ER": 5,
+          "BB": 6,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "Andrew Molina",
+          "number": null,
+          "IP": "1.0",
+          "H": 1,
+          "R": 2,
+          "ER": 0,
+          "BB": 2,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "IP": "3.0",
+          "H": 6,
+          "R": 6,
+          "ER": 6,
+          "BB": 2,
+          "SO": 1,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "D Rodas",
+          "number": 77,
+          "pos": "CF",
+          "AB": 3,
+          "R": 3,
+          "H": 1,
+          "RBI": 2,
+          "BB": 3,
+          "SO": 1
+        },
+        {
+          "player": "J Bolibol",
+          "number": 1,
+          "pos": "2B",
+          "AB": 4,
+          "R": 5,
+          "H": 2,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "D Mercado",
+          "number": 24,
+          "pos": "3B",
+          "AB": 4,
+          "R": 2,
+          "H": 3,
+          "RBI": 5,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "S Watkins",
+          "number": 4,
+          "pos": "1B",
+          "AB": 2,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 3,
+          "SO": 1
+        },
+        {
+          "player": "D Ford",
+          "number": 16,
+          "pos": "SS",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 3,
+          "SO": 0
+        },
+        {
+          "player": "C Walker",
+          "number": 5,
+          "pos": "C",
+          "AB": 4,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "S Thornton",
+          "number": 29,
+          "pos": "RF",
+          "AB": 5,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "S Youckton",
+          "number": 34,
+          "pos": "P",
+          "AB": 3,
+          "R": 3,
+          "H": 1,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "S Mock",
+          "number": 10,
+          "pos": "LF",
+          "AB": 5,
+          "R": 1,
+          "H": 4,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "S Youckton",
+          "number": 34,
+          "IP": "3.0",
+          "H": 1,
+          "R": 1,
+          "ER": 1,
+          "BB": 1,
+          "SO": 3,
+          "HR": 0
+        },
+        {
+          "player": "S Watkins",
+          "number": 4,
+          "IP": "1.0",
+          "H": 2,
+          "R": 6,
+          "ER": 0,
+          "BB": 3,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "D Rodas",
+          "number": 77,
+          "IP": "3.0",
+          "H": 2,
+          "R": 1,
+          "ER": 1,
+          "BB": 2,
+          "SO": 5,
+          "HR": 0
+        }
+      ],
+      "source_file": "Outlaws_vs_Salamanders_Jul_1_2025.pdf"
+    },
+    {
+      "id": "2025-07-08-razorbats",
+      "date": "2025-07-08",
+      "display_date": "Jul 8, 2025",
+      "home_away": "Away",
+      "opponent": "Razorbats",
+      "salamanders_score": 13,
+      "opponent_score": 6,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "5",
+            "1",
+            "2",
+            "4"
+          ],
+          "R": 13,
+          "H": 16,
+          "E": 2
+        },
+        {
+          "abbr": "RZRB",
+          "innings": [
+            "1",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "3"
+          ],
+          "R": 6,
+          "H": 12,
+          "E": 3
+        }
+      ],
+      "batting": [
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "1B",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "2B",
+          "AB": 4,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 5,
+          "R": 2,
+          "H": 3,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 5,
+          "R": 1,
+          "H": 4,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "C",
+          "AB": 5,
+          "R": 2,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Andrew Molina",
+          "number": null,
+          "pos": "LF",
+          "AB": 3,
+          "R": 3,
+          "H": 1,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Brandon Wescom",
+          "number": 2,
+          "pos": "RF",
+          "AB": 5,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 2
+        },
+        {
+          "player": "T Valentine",
+          "number": 7,
+          "pos": "DH",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 3
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "9.0",
+          "H": 12,
+          "R": 6,
+          "ER": 5,
+          "BB": 4,
+          "SO": 6,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "G Ziser",
+          "number": 9,
+          "pos": "P",
+          "AB": 5,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "J Beckerman",
+          "number": null,
+          "pos": "2B",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "B Mummy",
+          "number": null,
+          "pos": "SS",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "M Domanski",
+          "number": 14,
+          "pos": "3B",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "B Gray",
+          "number": 3,
+          "pos": "CF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "C Crowley-Hall",
+          "number": 24,
+          "pos": "P",
+          "AB": 4,
+          "R": 1,
+          "H": 3,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "R Terrio",
+          "number": null,
+          "pos": "C",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "C Johnson",
+          "number": 7,
+          "pos": "1B",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "S Johnson",
+          "number": null,
+          "pos": "RF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "T Johnson",
+          "number": 11,
+          "pos": "LF",
+          "AB": 4,
+          "R": 1,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "C Crowley-Hall",
+          "number": 24,
+          "IP": "5.0",
+          "H": 6,
+          "R": 1,
+          "ER": 1,
+          "BB": 2,
+          "SO": 6,
+          "HR": 0
+        },
+        {
+          "player": "G Ziser",
+          "number": 9,
+          "IP": "4.0",
+          "H": 10,
+          "R": 12,
+          "ER": 9,
+          "BB": 4,
+          "SO": 4,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Razorbats_Jul_8_2025.pdf"
+    },
+    {
+      "id": "2025-07-15-jalapenos",
+      "date": "2025-07-15",
+      "display_date": "Jul 15, 2025",
+      "home_away": "Home",
+      "opponent": "Jalapeños",
+      "salamanders_score": 12,
+      "opponent_score": 15,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "line_score": [
+        {
+          "abbr": "JLPÑ",
+          "innings": [
+            "0",
+            "3",
+            "4",
+            "0",
+            "6",
+            "1",
+            "1"
+          ],
+          "R": 15,
+          "H": 12,
+          "E": 2
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "5",
+            "2",
+            "2",
+            "3",
+            "0"
+          ],
+          "R": 12,
+          "H": 13,
+          "E": 0
+        }
+      ],
+      "batting": [
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "RF",
+          "AB": 2,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 2,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "1B",
+          "AB": 4,
+          "R": 2,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Andrew Molina",
+          "number": null,
+          "pos": "LF",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "N Bounty",
+          "number": null,
+          "pos": "C",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "2B",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": null,
+          "AB": 2,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "3.0",
+          "H": 4,
+          "R": 7,
+          "ER": 6,
+          "BB": 6,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "N Bounty",
+          "number": null,
+          "IP": "3.2",
+          "H": 8,
+          "R": 9,
+          "ER": 9,
+          "BB": 13,
+          "SO": 0,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "R Maanao",
+          "number": 7,
+          "pos": "RF",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "K Jemison",
+          "number": 9,
+          "pos": "SS",
+          "AB": 1,
+          "R": 1,
+          "H": 0,
+          "RBI": 1,
+          "BB": 3,
+          "SO": 1
+        },
+        {
+          "player": "C Hubbs",
+          "number": 94,
+          "pos": "CF",
+          "AB": 3,
+          "R": 3,
+          "H": 2,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "B Morihara",
+          "number": 15,
+          "pos": "1B",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "C Pease",
+          "number": 37,
+          "pos": "P",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 2,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "S Rodriguez",
+          "number": 21,
+          "pos": "2B",
+          "AB": 1,
+          "R": 3,
+          "H": 1,
+          "RBI": 1,
+          "BB": 4,
+          "SO": 0
+        },
+        {
+          "player": "G Zimmerman",
+          "number": 16,
+          "pos": "3B",
+          "AB": 4,
+          "R": 2,
+          "H": 3,
+          "RBI": 3,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "S Riley",
+          "number": 20,
+          "pos": null,
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "N Bazan",
+          "number": 2,
+          "pos": "LF",
+          "AB": 3,
+          "R": 1,
+          "H": 3,
+          "RBI": 3,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "N Jordan",
+          "number": 45,
+          "pos": "C",
+          "AB": 1,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 3,
+          "SO": 1
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "C Pease",
+          "number": 37,
+          "IP": "4.0",
+          "H": 8,
+          "R": 7,
+          "ER": 6,
+          "BB": 3,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "G Zimmerman",
+          "number": 16,
+          "IP": "1.1",
+          "H": 4,
+          "R": 5,
+          "ER": 5,
+          "BB": 4,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "C Hubbs",
+          "number": 94,
+          "IP": "1.2",
+          "H": 1,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 5,
+          "HR": 0
+        }
+      ],
+      "source_file": "Jalapeños_vs_Salamanders_Jul_15_2025.pdf"
+    },
+    {
+      "id": "2025-07-19-outlaws",
+      "date": "2025-07-19",
+      "display_date": "Jul 19, 2025",
+      "home_away": "Away",
+      "opponent": "Outlaws",
+      "salamanders_score": 3,
+      "opponent_score": 17,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "1"
+          ],
+          "R": 3,
+          "H": 7,
+          "E": 1
+        },
+        {
+          "abbr": "OTLW",
+          "innings": [
+            "2",
+            "11",
+            "4",
+            "0",
+            "X"
+          ],
+          "R": 17,
+          "H": 10,
+          "E": 1
+        }
+      ],
+      "batting": [
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "1B",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "2B",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 3,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "LF",
+          "AB": 2,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "P",
+          "AB": 3,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": "RF",
+          "AB": 3,
+          "R": 0,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": "C",
+          "AB": 1,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 1,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "J Pickett",
+          "number": null,
+          "pos": "3B",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Brandon Wescom",
+          "number": 2,
+          "pos": "RF",
+          "AB": 1,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "IP": "1.0",
+          "H": 2,
+          "R": 9,
+          "ER": 9,
+          "BB": 6,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "IP": "1.1",
+          "H": 7,
+          "R": 8,
+          "ER": 8,
+          "BB": 2,
+          "SO": 3,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "1.2",
+          "H": 1,
+          "R": 0,
+          "ER": 0,
+          "BB": 1,
+          "SO": 3,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "J Schumacher",
+          "number": 3,
+          "pos": "C",
+          "AB": 3,
+          "R": 2,
+          "H": 2,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "D Rodas",
+          "number": 77,
+          "pos": "P",
+          "AB": 2,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "C Walker",
+          "number": 5,
+          "pos": "2B",
+          "AB": 3,
+          "R": 3,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "D Mercado",
+          "number": 24,
+          "pos": "3B",
+          "AB": 1,
+          "R": 2,
+          "H": 0,
+          "RBI": 0,
+          "BB": 3,
+          "SO": 1
+        },
+        {
+          "player": "D Ford",
+          "number": 16,
+          "pos": "SS",
+          "AB": 2,
+          "R": 2,
+          "H": 1,
+          "RBI": 2,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "S Watkins",
+          "number": 4,
+          "pos": "1B",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "S Thornton",
+          "number": 29,
+          "pos": "RF",
+          "AB": 2,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "S Youckton",
+          "number": 34,
+          "pos": "CF",
+          "AB": 2,
+          "R": 2,
+          "H": 2,
+          "RBI": 4,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "L Anderson",
+          "number": null,
+          "pos": "LF",
+          "AB": 2,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "D Rodas",
+          "number": 77,
+          "IP": "3.0",
+          "H": 4,
+          "R": 2,
+          "ER": 0,
+          "BB": 3,
+          "SO": 7,
+          "HR": 0
+        },
+        {
+          "player": "S Watkins",
+          "number": 4,
+          "IP": "1.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 2,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "C Walker",
+          "number": 5,
+          "IP": "1.0",
+          "H": 3,
+          "R": 1,
+          "ER": 1,
+          "BB": 0,
+          "SO": 0,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Outlaws_Jul_19_2025.pdf"
+    },
+    {
+      "id": "2025-07-21-razorbats",
+      "date": "2025-07-21",
+      "display_date": "Jul 21, 2025",
+      "home_away": "Home",
+      "opponent": "Razorbats",
+      "salamanders_score": 14,
+      "opponent_score": 14,
+      "result": "T",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "line_score": [
+        {
+          "abbr": "RZRB",
+          "innings": [
+            "1",
+            "4",
+            "5",
+            "0",
+            "1",
+            "0",
+            "3",
+            "0"
+          ],
+          "R": 14,
+          "H": 9,
+          "E": 4
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "2",
+            "2",
+            "2",
+            "0",
+            "2",
+            "2",
+            "4",
+            "0"
+          ],
+          "R": 14,
+          "H": 17,
+          "E": 9
+        }
+      ],
+      "batting": [
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "1B",
+          "AB": 5,
+          "R": 1,
+          "H": 4,
+          "RBI": 4,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 5,
+          "R": 3,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 5,
+          "R": 1,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "C",
+          "AB": 5,
+          "R": 0,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 4,
+          "R": 3,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": "RF",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 1
+        },
+        {
+          "player": "Andrew Molina",
+          "number": null,
+          "pos": "LF",
+          "AB": 4,
+          "R": 1,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "2B",
+          "AB": 4,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": "RF",
+          "AB": 3,
+          "R": 1,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 2
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "4.0",
+          "H": 7,
+          "R": 11,
+          "ER": 4,
+          "BB": 2,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "IP": "4.0",
+          "H": 2,
+          "R": 3,
+          "ER": 1,
+          "BB": 3,
+          "SO": 3,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "G Ziser",
+          "number": 9,
+          "pos": "P",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "N Steele",
+          "number": null,
+          "pos": "3B",
+          "AB": 4,
+          "R": 3,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "B Mummy",
+          "number": null,
+          "pos": "SS",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "M Domanski",
+          "number": 14,
+          "pos": "1B",
+          "AB": 4,
+          "R": 3,
+          "H": 2,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "C Batacan",
+          "number": null,
+          "pos": "2B",
+          "AB": 2,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "B Gray",
+          "number": 3,
+          "pos": "LF",
+          "AB": 3,
+          "R": 2,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "C Crowley-Hall",
+          "number": 24,
+          "pos": "CF",
+          "AB": 4,
+          "R": 2,
+          "H": 1,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "C Johnson",
+          "number": 7,
+          "pos": null,
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "M Robin",
+          "number": null,
+          "pos": "RF",
+          "AB": 4,
+          "R": 1,
+          "H": 0,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "R Terrio",
+          "number": null,
+          "pos": "C",
+          "AB": 3,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "J Beckerman",
+          "number": null,
+          "pos": "3B",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "G Ziser",
+          "number": 9,
+          "IP": "3.0",
+          "H": 9,
+          "R": 6,
+          "ER": 5,
+          "BB": 0,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "B Mummy",
+          "number": null,
+          "IP": "2.0",
+          "H": 4,
+          "R": 2,
+          "ER": 2,
+          "BB": 2,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "C Cro",
+          "number": 24,
+          "IP": "1.0",
+          "H": 3,
+          "R": 6,
+          "ER": 3,
+          "BB": 2,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "N Steele",
+          "number": null,
+          "IP": "2.0",
+          "H": 1,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 5,
+          "HR": 0
+        }
+      ],
+      "source_file": "Razorbats_vs_Salamanders_Jul_21_2025.pdf"
+    },
+    {
+      "id": "2025-07-22-outlaws",
+      "date": "2025-07-22",
+      "display_date": "Jul 22, 2025",
+      "home_away": "Home",
+      "opponent": "Outlaws",
+      "salamanders_score": 4,
+      "opponent_score": 14,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "line_score": [
+        {
+          "abbr": "OTLW",
+          "innings": [
+            "0",
+            "0",
+            "2",
+            "6",
+            "1",
+            "5"
+          ],
+          "R": 14,
+          "H": 13,
+          "E": 1
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "1",
+            "0",
+            "0",
+            "3",
+            "0",
+            "0"
+          ],
+          "R": 4,
+          "H": 4,
+          "E": 2
+        }
+      ],
+      "batting": [
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 3,
+          "R": 2,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "1B",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "LF",
+          "AB": 3,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "P",
+          "AB": 2,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 1,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "N Bounty",
+          "number": null,
+          "pos": "C",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": "RF",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "T Pridmore",
+          "number": null,
+          "pos": "2B",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Brandon Wescom",
+          "number": 2,
+          "pos": null,
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "IP": "5.1",
+          "H": 10,
+          "R": 12,
+          "ER": 10,
+          "BB": 4,
+          "SO": 4,
+          "HR": 0
+        },
+        {
+          "player": "T Pridmore",
+          "number": null,
+          "IP": "0.2",
+          "H": 3,
+          "R": 2,
+          "ER": 2,
+          "BB": 0,
+          "SO": 0,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "D Rodas",
+          "number": 77,
+          "pos": "CF",
+          "AB": 5,
+          "R": 3,
+          "H": 2,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "D Ford",
+          "number": 7,
+          "pos": "2B",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "J Schumacher",
+          "number": 3,
+          "pos": "C",
+          "AB": 3,
+          "R": 1,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "D Mercado",
+          "number": 24,
+          "pos": "3B",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 3,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "D Ford",
+          "number": 16,
+          "pos": "SS",
+          "AB": 2,
+          "R": 2,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "S Watkins",
+          "number": 4,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "S Mock",
+          "number": 10,
+          "pos": "LF",
+          "AB": 4,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "K Burnett",
+          "number": null,
+          "pos": "RF",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "S Youckton",
+          "number": 34,
+          "pos": "P",
+          "AB": 1,
+          "R": 2,
+          "H": 1,
+          "RBI": 2,
+          "BB": 1,
+          "SO": 0
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "S Youckton",
+          "number": 34,
+          "IP": "6.0",
+          "H": 4,
+          "R": 4,
+          "ER": 4,
+          "BB": 1,
+          "SO": 11,
+          "HR": 0
+        }
+      ],
+      "source_file": "Outlaws_vs_Salamanders_Jul_22_2025.pdf"
+    },
+    {
+      "id": "2025-07-26-jalapenos",
+      "date": "2025-07-26",
+      "display_date": "Jul 26, 2025",
+      "home_away": "Away",
+      "opponent": "Jalapeños",
+      "salamanders_score": 10,
+      "opponent_score": 5,
+      "result": "W",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "line_score": [
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "3",
+            "1",
+            "0",
+            "5",
+            "0",
+            "1",
+            "0",
+            "0"
+          ],
+          "R": 10,
+          "H": 11,
+          "E": 7
+        },
+        {
+          "abbr": "JLPÑ",
+          "innings": [
+            "1",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1"
+          ],
+          "R": 5,
+          "H": 7,
+          "E": 6
+        }
+      ],
+      "batting": [
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "SS",
+          "AB": 5,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "1B",
+          "AB": 4,
+          "R": 2,
+          "H": 2,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "3B",
+          "AB": 4,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Andrew Molina",
+          "number": null,
+          "pos": "LF",
+          "AB": 5,
+          "R": 2,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 5,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "A Shanrock",
+          "number": null,
+          "pos": "P",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Danny Baer",
+          "number": 31,
+          "pos": "2B",
+          "AB": 4,
+          "R": 0,
+          "H": 2,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": "C",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Brandon Wescom",
+          "number": 2,
+          "pos": "RF",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "A Shanrock",
+          "number": null,
+          "IP": "7.0",
+          "H": 6,
+          "R": 4,
+          "ER": 1,
+          "BB": 3,
+          "SO": 12,
+          "HR": 0
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "2.0",
+          "H": 1,
+          "R": 1,
+          "ER": 0,
+          "BB": 0,
+          "SO": 4,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "K Jemison",
+          "number": 9,
+          "pos": "SS",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 3
+        },
+        {
+          "player": "G Zimmerman",
+          "number": 16,
+          "pos": "2B",
+          "AB": 5,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "S Riley",
+          "number": 20,
+          "pos": "3B",
+          "AB": 5,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "B Morihara",
+          "number": 15,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "S Rodriguez",
+          "number": 21,
+          "pos": "C",
+          "AB": 3,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 1,
+          "SO": 2
+        },
+        {
+          "player": "S Augus",
+          "number": 13,
+          "pos": "CF",
+          "AB": 4,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "C Pease",
+          "number": 37,
+          "pos": "P",
+          "AB": 5,
+          "R": 1,
+          "H": 2,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 2
+        },
+        {
+          "player": "N Bazan",
+          "number": 2,
+          "pos": "RF",
+          "AB": 5,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "R Maanao",
+          "number": 7,
+          "pos": "LF",
+          "AB": 5,
+          "R": 1,
+          "H": 2,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 2
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "C Pease",
+          "number": 37,
+          "IP": "7.0",
+          "H": 11,
+          "R": 10,
+          "ER": 7,
+          "BB": 2,
+          "SO": 2,
+          "HR": 0
+        },
+        {
+          "player": "B Morihara",
+          "number": 15,
+          "IP": "2.0",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 0,
+          "SO": 4,
+          "HR": 0
+        }
+      ],
+      "source_file": "Salamanders_vs_Jalapeños_Jul_26_2025.pdf"
+    },
+    {
+      "id": "2025-07-29-razorbats",
+      "date": "2025-07-29",
+      "display_date": "Jul 29, 2025",
+      "home_away": "Home",
+      "opponent": "Razorbats",
+      "salamanders_score": 1,
+      "opponent_score": 13,
+      "result": "L",
+      "season_type": "regular",
+      "innings": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "line_score": [
+        {
+          "abbr": "RZRB",
+          "innings": [
+            "1",
+            "5",
+            "1",
+            "0",
+            "6"
+          ],
+          "R": 13,
+          "H": 10,
+          "E": 1
+        },
+        {
+          "abbr": "SLMN",
+          "innings": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          "R": 1,
+          "H": 2,
+          "E": 7
+        }
+      ],
+      "batting": [
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "pos": "2B",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Matthew Swinkey",
+          "number": 23,
+          "pos": "1B",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "pos": "P",
+          "AB": 2,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Andrew Molina",
+          "number": null,
+          "pos": "LF",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "Tim Robertson",
+          "number": 36,
+          "pos": "C",
+          "AB": 2,
+          "R": 0,
+          "H": 1,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "A Shanrock",
+          "number": null,
+          "pos": "SS",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "pos": "3B",
+          "AB": 1,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 1
+        },
+        {
+          "player": "Esteban Fernandez Jr.",
+          "number": 17,
+          "pos": null,
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Jason Mickelson",
+          "number": 10,
+          "pos": "RF",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "Devin Mendez",
+          "number": 14,
+          "pos": "CF",
+          "AB": 1,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 1
+        }
+      ],
+      "pitching": [
+        {
+          "player": "Jacob Garness",
+          "number": 11,
+          "IP": "4.0",
+          "H": 10,
+          "R": 10,
+          "ER": 6,
+          "BB": 3,
+          "SO": 1,
+          "HR": 0
+        },
+        {
+          "player": "Jordan Goss",
+          "number": 4,
+          "IP": "0.1",
+          "H": 0,
+          "R": 3,
+          "ER": 2,
+          "BB": 3,
+          "SO": 0,
+          "HR": 0
+        },
+        {
+          "player": "Mason Blair",
+          "number": 8,
+          "IP": "0.2",
+          "H": 0,
+          "R": 0,
+          "ER": 0,
+          "BB": 1,
+          "SO": 0,
+          "HR": 0
+        }
+      ],
+      "opponent_batting": [
+        {
+          "player": "N Steele",
+          "number": null,
+          "pos": "SS",
+          "AB": 4,
+          "R": 3,
+          "H": 3,
+          "RBI": 2,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "C Crowley-Hall",
+          "number": 24,
+          "pos": "3B",
+          "AB": 3,
+          "R": 1,
+          "H": 0,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "C Steele",
+          "number": null,
+          "pos": "P",
+          "AB": 2,
+          "R": 2,
+          "H": 2,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "R Terrio",
+          "number": null,
+          "pos": "C",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 2,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "B Mummy",
+          "number": null,
+          "pos": "2B",
+          "AB": 2,
+          "R": 1,
+          "H": 1,
+          "RBI": 1,
+          "BB": 2,
+          "SO": 0
+        },
+        {
+          "player": "B Gray",
+          "number": 3,
+          "pos": "1B",
+          "AB": 4,
+          "R": 0,
+          "H": 0,
+          "RBI": 1,
+          "BB": 0,
+          "SO": 1
+        },
+        {
+          "player": "T Johnson",
+          "number": 11,
+          "pos": "CF",
+          "AB": 3,
+          "R": 2,
+          "H": 1,
+          "RBI": 0,
+          "BB": 1,
+          "SO": 0
+        },
+        {
+          "player": "J Beckerman",
+          "number": null,
+          "pos": "LF",
+          "AB": 4,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "A Cole",
+          "number": 51,
+          "pos": "RF",
+          "AB": 2,
+          "R": 0,
+          "H": 0,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        },
+        {
+          "player": "C Batacan",
+          "number": null,
+          "pos": "RF",
+          "AB": 1,
+          "R": 1,
+          "H": 1,
+          "RBI": 0,
+          "BB": 0,
+          "SO": 0
+        }
+      ],
+      "opponent_pitching": [
+        {
+          "player": "C Steele",
+          "number": null,
+          "IP": "5.0",
+          "H": 2,
+          "R": 1,
+          "ER": 0,
+          "BB": 1,
+          "SO": 4,
+          "HR": 0
+        }
+      ],
+      "source_file": "Razorbats_vs_Salamanders_Jul_29_2025.pdf"
+    }
+  ]
+}

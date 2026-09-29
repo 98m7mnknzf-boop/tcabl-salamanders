@@ -1307,3 +1307,31 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
   .game-details{padding:14px}
   .game-summary-main h3{font-size:26px}
 }
+
+
+/* V23 season archive controls + opponent box scores */
+.results-controls{display:flex;flex-direction:column;align-items:flex-end;gap:10px}
+.results-year-tabs{display:flex;gap:8px;padding:4px;border:1px solid rgba(255,255,255,.10);border-radius:999px;background:#0c0c0c}
+.results-year-tab{border:0;background:transparent;color:#8e8e8e;border-radius:999px;padding:10px 20px;font:900 12px/1 Inter,sans-serif;cursor:pointer}
+.results-year-tab:hover{color:white}
+.results-year-tab.active{background:var(--gold);color:#111}
+.results-filter[hidden]{display:none}
+.opponent-boxscore{margin-top:18px;border:1px solid rgba(255,255,255,.08);border-radius:14px;background:#0d0d0d;overflow:hidden}
+.opponent-boxscore>summary{list-style:none;cursor:pointer;padding:14px 16px;color:#bbb;font-size:11px;font-weight:900;text-transform:uppercase;letter-spacing:.08em}
+.opponent-boxscore>summary::-webkit-details-marker{display:none}
+.opponent-boxscore>summary::before{content:"+ ";color:var(--gold)}
+.opponent-boxscore[open]>summary::before{content:"− "}
+.opponent-boxscore[open]>summary{border-bottom:1px solid rgba(255,255,255,.07);color:white}
+.opponent-boxscore-body{padding:0 18px 18px}
+.opponent-block{background:#0c0c0c}
+.roster-2027-subheading{margin-top:48px;padding-top:36px;border-top:1px solid rgba(255,255,255,.08)}
+.roster-2027-grid{grid-template-columns:minmax(0,1fr);max-width:420px}
+.roster-2027-note{text-align:left;max-width:720px;margin-left:0}
+@media(max-width:900px){
+  .results-controls{align-items:flex-start}
+}
+@media(max-width:640px){
+  .results-year-tabs{width:100%}
+  .results-year-tab{flex:1}
+  .roster-2027-grid{max-width:none}
+}

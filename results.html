@@ -3,15 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="2026 TCABL Salamanders game results and box score archive for regular-season and playoff games." />
-  <title>2026 Results & Box Scores | TCABL Salamanders</title>
+  <meta name="description" content="TCABL Salamanders game results and box score archive for the 2025 and 2026 seasons." />
+  <title>Results & Box Scores | TCABL Salamanders</title>
   <link rel="canonical" href="https://salamandersbaseball.org/results" />
   <meta name="robots" content="index,follow" />
   <meta name="theme-color" content="#090909" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://salamandersbaseball.org/results" />
-  <meta property="og:title" content="2026 Results & Box Scores | TCABL Salamanders" />
-  <meta property="og:description" content="Game-by-game results, line scores, batting and pitching box scores from the Salamanders' 2026 season." />
+  <meta property="og:title" content="Results & Box Scores | TCABL Salamanders" />
+  <meta property="og:description" content="Game-by-game results, line scores, batting and pitching box scores from the Salamanders' 2025 and 2026 seasons." />
   <meta property="og:image" content="https://salamandersbaseball.org/assets/salamanders-social-share.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="assets/salamanders-icon-192.png" />
@@ -47,8 +47,8 @@
     <section class="results-hero">
       <div class="results-hero-inner">
         <div class="eyebrow">SALAMANDERS GAME ARCHIVE</div>
-        <h1>2026 RESULTS<br><span>&amp; BOX SCORES</span></h1>
-        <p>Open any game to view the inning-by-inning line score plus Salamanders batting and pitching. Regular-season and postseason data stay separated.</p>
+        <h1>RESULTS<br><span>&amp; BOX SCORES</span></h1>
+        <p>Browse the Salamanders game archive by season. Open any game for the inning-by-inning line score, Salamanders batting and pitching, and full opponent box scores when available.</p>
         <div class="results-archive-stats" aria-label="Archive coverage">
           <div><strong id="regular-count">20</strong><span>Regular Season</span></div>
           <div><strong id="postseason-count">4</strong><span>Playoff Games</span></div>
@@ -60,18 +60,24 @@
     <section class="section results-archive-section">
       <div class="results-toolbar">
         <div>
-          <div class="eyebrow">2026 SEASON</div>
+          <div class="eyebrow" id="results-season-eyebrow">2026 SEASON</div>
           <h2>GAME-BY-GAME</h2>
         </div>
-        <div class="results-filters" role="group" aria-label="Filter 2026 games">
-          <button type="button" class="results-filter active" data-filter="all" aria-pressed="true">All Games</button>
-          <button type="button" class="results-filter" data-filter="regular" aria-pressed="false">Regular Season</button>
-          <button type="button" class="results-filter postseason-filter" data-filter="postseason" aria-pressed="false">Playoffs</button>
+        <div class="results-controls">
+          <div class="results-year-tabs" role="tablist" aria-label="Select results season">
+            <button type="button" class="results-year-tab active" data-results-year="2026" aria-selected="true">2026</button>
+            <button type="button" class="results-year-tab" data-results-year="2025" aria-selected="false">2025</button>
+          </div>
+          <div class="results-filters" role="group" aria-label="Filter games">
+            <button type="button" class="results-filter active" data-filter="all" aria-pressed="true">All Games</button>
+            <button type="button" class="results-filter" data-filter="regular" aria-pressed="false">Regular Season</button>
+            <button type="button" class="results-filter postseason-filter" data-filter="postseason" aria-pressed="false">Playoffs</button>
+          </div>
         </div>
       </div>
-      <p class="results-help">Games are listed newest first. Select <strong>View Box Score</strong> to expand a game without cluttering the main page.</p>
+      <p class="results-help">Games are listed newest first. Choose a season, then select <strong>View Box Score</strong> to expand a game without cluttering the page.</p>
       <div id="results-list" class="results-list" aria-live="polite"></div>
-      <div id="results-error" class="results-error" hidden>We couldn't load the 2026 game archive. Please refresh the page.</div>
+      <div id="results-error" class="results-error" hidden>We couldn't load the selected game archive. Please refresh the page.</div>
     </section>
   </main>
 
