@@ -1335,3 +1335,39 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
   .results-year-tab{flex:1}
   .roster-2027-grid{max-width:none}
 }
+
+
+/* V23.3 compact player-card statistics */
+.player-stats{
+  margin:2px 0 16px;
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:12px;
+  background:rgba(0,0,0,.18);
+  overflow:hidden;
+}
+.player-stats>summary{
+  list-style:none;cursor:pointer;padding:11px 12px;color:#d8d8d8;
+  font-size:10px;line-height:1;font-weight:900;letter-spacing:.08em;
+  text-transform:uppercase;display:flex;align-items:center;
+  justify-content:space-between;gap:10px;
+}
+.player-stats>summary::-webkit-details-marker{display:none}
+.player-stats>summary::after{content:"+";color:var(--gold);font-size:15px;line-height:1}
+.player-stats[open]>summary{border-bottom:1px solid rgba(255,255,255,.07);color:white}
+.player-stats[open]>summary::after{content:"−"}
+.player-stats-body{padding:12px}
+.player-stat-group+.player-stat-group{margin-top:12px;padding-top:12px;border-top:1px solid rgba(255,255,255,.065)}
+.player-stat-title{margin-bottom:9px;color:var(--gold);font-size:8.5px;line-height:1.2;font-weight:900;letter-spacing:.10em}
+.player-stat-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px}
+.player-stat-grid>div{min-width:0;padding:7px 5px;border-radius:8px;background:#0c0c0c;text-align:center}
+.player-stat-grid strong{display:block;color:#f1f1f1;font:400 20px/1 "Bebas Neue";overflow:hidden;text-overflow:ellipsis}
+.player-stat-grid span{display:block;margin-top:3px;color:#777;font-size:7.5px;font-weight:800;letter-spacing:.05em}
+.player-stat-grid.pitching{grid-template-columns:repeat(4,minmax(0,1fr))}
+.player-stats-empty{margin:2px 0 16px;padding:11px 12px;border:1px dashed rgba(255,255,255,.11);border-radius:12px;background:rgba(0,0,0,.13)}
+.player-stats-empty span{display:block;color:#777;font-size:8px;font-weight:900;letter-spacing:.10em}
+.player-stats-empty strong{display:block;margin-top:4px;color:#aaa;font-size:11px}
+.player-stat-note{color:#888;font-size:10px}
+@media(max-width:480px){
+  .player-stat-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .player-stat-grid strong{font-size:18px}
+}
