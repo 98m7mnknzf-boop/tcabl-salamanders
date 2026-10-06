@@ -1501,3 +1501,85 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
   .player-game-head strong{font-size:9px}
   .game-log-statline{font-size:8px}
 }
+
+
+/* V25 2026 All-League honors */
+.all-league-honors-section{
+  margin-top:34px;
+  padding-top:30px;
+  border-top:1px solid rgba(255,255,255,.08);
+}
+.all-league-award-grid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:18px;
+  margin-top:18px;
+}
+.all-league-award-card{
+  overflow:hidden;
+  border:1px solid rgba(255,255,255,.09);
+  border-radius:16px;
+  background:#0d0d0d;
+  box-shadow:0 16px 36px rgba(0,0,0,.22);
+}
+.all-league-award-card img{
+  display:block;
+  width:100%;
+  aspect-ratio:2/3;
+  object-fit:cover;
+  background:#080808;
+}
+.all-league-award-copy{
+  padding:15px 16px 17px;
+  border-top:1px solid rgba(255,255,255,.07);
+}
+.all-league-award-copy strong{
+  display:block;
+  margin-top:5px;
+  color:white;
+  font-size:18px;
+}
+.all-league-award-copy p{
+  margin:5px 0 0;
+  color:#8d8d8d;
+  font-size:11px;
+  line-height:1.45;
+}
+.all-league-award-card.first-team{
+  border-color:rgba(242,194,48,.30);
+}
+.all-league-award-card.second-team{
+  border-color:rgba(255,255,255,.13);
+}
+.achievement-chip.award-first-team{
+  border-color:rgba(242,194,48,.48);
+  background:rgba(242,194,48,.10);
+  color:#f2c230;
+}
+.achievement-chip.award-second-team{
+  border-color:rgba(255,255,255,.20);
+  background:rgba(255,255,255,.055);
+  color:#d9d9d9;
+}
+@media(max-width:900px){
+  .all-league-award-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:620px){
+  .all-league-award-grid{grid-template-columns:1fr}
+  .all-league-award-card{
+    display:grid;
+    grid-template-columns:42% 1fr;
+    align-items:stretch;
+  }
+  .all-league-award-card img{
+    height:100%;
+    aspect-ratio:auto;
+  }
+  .all-league-award-copy{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    border-top:0;
+    border-left:1px solid rgba(255,255,255,.07);
+  }
+}
