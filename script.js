@@ -1,3 +1,15 @@
+// Keep earlier homepage bookmarks working after the page split.
+(() => {
+  if (!['/', '/index', '/index.html'].includes(window.location.pathname)) return;
+  const destinations = {"stats": "stats.html", "stats-2026-panel": "stats.html", "stats-2025-panel": "stats.html", "stats-2026-post-panel": "stats.html", "pitching": "stats.html", "pitch-2026-panel": "stats.html", "pitch-2026-post-panel": "stats.html", "pitch-2025-panel": "stats.html", "history": "history.html", "records": "records.html", "roster": "roster.html", "new-additions": "roster.html"};
+  const followBookmark = () => {
+    const destination = destinations[window.location.hash.slice(1)];
+    if (destination) window.location.replace(destination + window.location.hash);
+  };
+  followBookmark();
+  window.addEventListener('hashchange', followBookmark);
+})();
+
 document.getElementById("year").textContent = new Date().getFullYear();
 
 const toggle = document.querySelector(".nav-toggle");

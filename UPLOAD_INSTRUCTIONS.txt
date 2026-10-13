@@ -1,0 +1,7 @@
+Salamanders V26 update
+
+Extract this ZIP and upload its website files to the root of the existing 98m7mnknzf-boop/tcabl-salamanders GitHub repository. Replace the matching files and add stats.html, roster.html, history.html, and records.html. Keep the existing assets folder and JSON data files. Do not create a new repository. Vercel will redeploy salamandersbaseball.org after committing to main.
+
+Includes Jake Harris #2 under 2027 additions and corrects Spencer Logan. Jake’s positions are OF / INF. His photo can be added once provided.
+
+Validated: JavaScript syntax, all internal links and anchors, legacy bookmarks, and exact preservation of stats, history, and records content.

@@ -878,8 +878,8 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
   min-height:72px;
   box-shadow:0 10px 40px rgba(0,0,0,.22);
 }
-.site-nav a[aria-current="true"]{color:var(--gold);opacity:1}
-.site-nav a[aria-current="true"]:not(.nav-cta)::after{left:0;right:0}
+.site-nav a:is([aria-current="true"],[aria-current="page"]){color:var(--gold);opacity:1}
+.site-nav a:is([aria-current="true"],[aria-current="page"]):not(.nav-cta)::after{left:0;right:0}
 
 .hero-content{isolation:isolate}
 .hero-sub{max-width:720px}
@@ -1583,3 +1583,15 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
     border-left:1px solid rgba(255,255,255,.07);
   }
 }
+
+/* Dedicated pages and compact homepage highlights. */
+.page-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}
+.home-highlight-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
+.home-highlight-card{padding:28px;background:var(--charcoal);border:1px solid rgba(255,255,255,.1);border-top:3px solid var(--gold);border-radius:12px}
+.home-highlight-card h3{font-size:28px;margin:12px 0}
+.highlight-value{display:block;font:400 48px/1 "Bebas Neue";color:var(--gold)}
+.home-highlight-card p{color:var(--muted)}
+.roster-photo-placeholder{display:flex;align-items:center;justify-content:center;background:radial-gradient(circle,rgba(242,194,48,.12),#111)}
+.roster-photo-placeholder img{object-fit:contain;width:70%;height:85%}
+#new-additions,#jake-harris{scroll-margin-top:110px}
+@media(max-width:760px){.home-highlight-grid{grid-template-columns:1fr}.home-highlight-card{padding:24px}}

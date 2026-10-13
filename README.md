@@ -1,3 +1,12 @@
+# V26 — Dedicated pages and 2027 addition
+
+- Home now shows team highlights and links to dedicated Stats, Roster, History, and Records pages.
+- All existing batting/pitching tables, awards, records, photos, player game logs, and results archives are retained.
+- Jake Harris #2 added under 2027 roster additions with a team-logo placeholder; positions confirmed as OF / INF; player photo remains unassigned.
+- Spencer Logan’s displayed name corrected.
+- Navigation, sitemap, metadata, and legacy homepage section bookmarks updated.
+- Stats/history/records content preservation, internal links/anchors, and JavaScript syntax checked before publication.
+
 # TCABL Salamanders Website — V18
 
 ## V18 changes
