@@ -1,3 +1,11 @@
+# V27 — Smoother navigation and clearer roster
+
+- Compact headers and no duplicate introductions on Stats, History, and Records.
+- Clean navigation URLs and short native page transitions, with reduced-motion support.
+- Complete 16-player 2027 roster: 3 additions and 13 returning players, with coaches and a collapsible 2026 archive.
+- Responsive new-player grid: three columns on desktop, two on tablet, one on mobile.
+- Jake Harris #2 remains OF / INF; existing statistics, awards, photos, and archives retained.
+
 # V26 — Dedicated pages and 2027 addition
 
 - Home now shows team highlights and links to dedicated Stats, Roster, History, and Records pages.

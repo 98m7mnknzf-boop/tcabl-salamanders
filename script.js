@@ -1,7 +1,7 @@
 // Keep earlier homepage bookmarks working after the page split.
 (() => {
   if (!['/', '/index', '/index.html'].includes(window.location.pathname)) return;
-  const destinations = {"stats": "stats.html", "stats-2026-panel": "stats.html", "stats-2025-panel": "stats.html", "stats-2026-post-panel": "stats.html", "pitching": "stats.html", "pitch-2026-panel": "stats.html", "pitch-2026-post-panel": "stats.html", "pitch-2025-panel": "stats.html", "history": "history.html", "records": "records.html", "roster": "roster.html", "new-additions": "roster.html"};
+  const destinations = {"stats": "/stats", "stats-2026-panel": "/stats", "stats-2025-panel": "/stats", "stats-2026-post-panel": "/stats", "pitching": "/stats", "pitch-2026-panel": "/stats", "pitch-2026-post-panel": "/stats", "pitch-2025-panel": "/stats", "history": "/history", "records": "/records", "roster": "/roster", "new-additions": "/roster"};
   const followBookmark = () => {
     const destination = destinations[window.location.hash.slice(1)];
     if (destination) window.location.replace(destination + window.location.hash);
@@ -231,4 +231,15 @@ if (backToTop) {
       table.setAttribute("aria-describedby", help.id);
     }
   });
+})();
+
+// Open the completed-season archive when linked directly, including from history.
+(() => {
+  const showArchive = () => {
+    if (window.location.hash !== '#archive-2026') return;
+    const archive = document.getElementById('archive-2026');
+    if (archive) archive.open = true;
+  };
+  showArchive();
+  window.addEventListener('hashchange', showArchive);
 })();

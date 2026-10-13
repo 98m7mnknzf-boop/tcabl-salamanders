@@ -1325,7 +1325,7 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
 .opponent-boxscore-body{padding:0 18px 18px}
 .opponent-block{background:#0c0c0c}
 .roster-2027-subheading{margin-top:48px;padding-top:36px;border-top:1px solid rgba(255,255,255,.08)}
-.roster-2027-grid{grid-template-columns:minmax(0,1fr);max-width:420px}
+.roster-2027-grid{grid-template-columns:repeat(3,minmax(0,1fr));max-width:none}
 .roster-2027-note{text-align:left;max-width:720px;margin-left:0}
 @media(max-width:900px){
   .results-controls{align-items:flex-start}
@@ -1595,3 +1595,26 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
 .roster-photo-placeholder img{object-fit:contain;width:70%;height:85%}
 #new-additions,#jake-harris{scroll-margin-top:110px}
 @media(max-width:760px){.home-highlight-grid{grid-template-columns:1fr}.home-highlight-card{padding:24px}}
+
+/* V27: tighter page flow and a complete current-season roster. */
+.compact-page-header .results-hero-inner{padding:40px 0 32px}
+.compact-page-header h1{font-size:clamp(40px,5vw,66px);line-height:1;margin:8px 0 12px}
+.compact-page-header p{font-size:15px;line-height:1.6;margin:0;max-width:800px}
+.compact-page-header .page-actions{margin-top:18px;align-items:center}
+.detail-page main>.section{padding-top:32px}
+.current-roster-heading{margin:0 0 24px}
+.current-roster-heading h2{font-size:clamp(30px,4vw,44px);line-height:1;margin:6px 0 0}
+#roster,#coaching-staff,#archive-2026{scroll-margin-top:96px}
+.roster-archive{margin-top:36px;border:1px solid rgba(255,255,255,.12);border-radius:12px;background:#111;overflow:hidden}
+.roster-archive>summary{padding:22px;cursor:pointer;font-weight:800;font-size:18px}
+.roster-archive>summary span{display:block;font-size:12px;font-weight:500;color:var(--muted);margin-top:5px}
+.roster-archive-body{padding:0 22px 22px}
+.roster-archive-body>p{color:var(--muted);margin-bottom:24px}
+@media(max-width:1000px){.roster-2027-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:720px){.roster-2027-grid{grid-template-columns:1fr}.compact-page-header .results-hero-inner{padding:28px 0 24px}.detail-page main>.section{padding-top:24px}.roster-archive-body{padding:0 14px 14px}}
+/* Native page transitions retain ordinary links and browser Back behavior. */
+@view-transition{navigation:auto}
+.site-header{view-transition-name:site-header}
+::view-transition-old(root),::view-transition-new(root){animation-duration:120ms}
+::view-transition-group(site-header){animation:none}
+@media(prefers-reduced-motion:reduce){@view-transition{navigation:none}::view-transition-old(root),::view-transition-new(root){animation:none}}

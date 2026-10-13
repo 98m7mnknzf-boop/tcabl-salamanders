@@ -1,7 +1,10 @@
-Salamanders V26 update
+Salamanders V27 smoothness fix
 
-Extract this ZIP and upload its website files to the root of the existing 98m7mnknzf-boop/tcabl-salamanders GitHub repository. Replace the matching files and add stats.html, roster.html, history.html, and records.html. Keep the existing assets folder and JSON data files. Do not create a new repository. Vercel will redeploy salamandersbaseball.org after committing to main.
+Extract this ZIP into a fresh folder. In the existing tcabl-salamanders GitHub repository choose Add file > Upload files. Upload the extracted files themselves to the repository root and commit to main. Keep assets and JSON data files.
 
-Includes Jake Harris #2 under 2027 additions and corrects Spencer Logan. Jake’s positions are OF / INF. His photo can be added once provided.
+Commit title: V27: Improve page flow and organize the 2027 roster
+Description: Compact page headers, remove duplicate introductions, improve navigation, fix the new-player grid, and show the complete 2027 roster with an expandable 2026 archive.
 
-Validated: JavaScript syntax, all internal links and anchors, legacy bookmarks, and exact preservation of stats, history, and records content.
+Jake Harris #2 remains OF / INF. All statistics, awards, photos and game data are retained.
+
+Validated: internal links and anchors, JavaScript syntax, bookmark and archive behavior, 16 unique current players, 14 archive players, and exact preservation of stat tables and awards. Browser appearance and transitions should be checked after upload.
