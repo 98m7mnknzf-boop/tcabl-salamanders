@@ -15,15 +15,27 @@ document.getElementById("year").textContent = new Date().getFullYear();
 const toggle = document.querySelector(".nav-toggle");
 const nav = document.querySelector(".site-nav");
 
+let menuOpenedAtScrollY = window.scrollY;
+const closeMenu = () => {
+  nav.classList.remove("open");
+  toggle.setAttribute("aria-expanded", "false");
+  toggle.setAttribute("aria-label", "Open menu");
+};
 toggle.addEventListener("click", () => {
   const open = nav.classList.toggle("open");
   toggle.setAttribute("aria-expanded", String(open));
+  toggle.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+  if (open) menuOpenedAtScrollY = window.scrollY;
 });
+// Let readers resume scrolling without leaving a menu covering the page.
+window.addEventListener("scroll", () => {
+  if (nav.classList.contains("open") && Math.abs(window.scrollY - menuOpenedAtScrollY) > 20) closeMenu();
+}, { passive: true });
+window.addEventListener("resize", closeMenu, { passive: true });
 
 document.querySelectorAll(".site-nav a").forEach(link => {
   link.addEventListener("click", () => {
-    nav.classList.remove("open");
-    toggle.setAttribute("aria-expanded", "false");
+    closeMenu();
   });
 });
 
@@ -62,8 +74,7 @@ document.querySelectorAll(".pitch-season-tab").forEach(tab => {
 // Launch polish: close mobile menu on Escape or outside click.
 document.addEventListener("keydown", event => {
   if (event.key === "Escape" && nav.classList.contains("open")) {
-    nav.classList.remove("open");
-    toggle.setAttribute("aria-expanded", "false");
+    closeMenu();
     toggle.focus();
   }
 });
@@ -71,30 +82,11 @@ document.addEventListener("keydown", event => {
 document.addEventListener("click", event => {
   if (!nav.classList.contains("open")) return;
   if (nav.contains(event.target) || toggle.contains(event.target)) return;
-  nav.classList.remove("open");
-  toggle.setAttribute("aria-expanded", "false");
+  closeMenu();
 });
 
-// Highlight the section currently being viewed.
-const navLinks = [...document.querySelectorAll('.site-nav a[href^="#"]')];
-const sections = navLinks
-  .map(link => document.querySelector(link.getAttribute("href")))
-  .filter(Boolean);
-
-if ("IntersectionObserver" in window) {
-  const sectionObserver = new IntersectionObserver(entries => {
-    const visible = entries
-      .filter(entry => entry.isIntersecting)
-      .sort((a,b) => b.intersectionRatio - a.intersectionRatio)[0];
-    if (!visible) return;
-    navLinks.forEach(link => {
-      const active = link.getAttribute("href") === `#${visible.target.id}`;
-      if (active) link.setAttribute("aria-current", "true");
-      else link.removeAttribute("aria-current");
-    });
-  }, { rootMargin: "-25% 0px -60% 0px", threshold: [0.01, 0.2, 0.5] });
-  sections.forEach(section => sectionObserver.observe(section));
-}
+// Dedicated pages provide their current-page marker in HTML. Avoid a second
+// section marker that made Home and Team appear selected simultaneously.
 
 // Back-to-top control.
 const backToTop = document.querySelector(".back-to-top");

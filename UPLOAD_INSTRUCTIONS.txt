@@ -1,8 +1,8 @@
-V28: Confirm 2026 record and finish site cleanup
+V29: Mobile layout and menu polish
 
-Extract to a new folder. In the existing tcabl-salamanders repository select Add file > Upload files, drag the extracted files into the repository root, and commit to main. Keep existing assets and JSON data.
+Extract to a fresh folder. Upload index.html, script.js and styles.css to the root of the existing tcabl-salamanders GitHub repository. Keep all other files and assets. Commit to main.
 
-Commit title: V28: Confirm 2026 record and finish site cleanup
-Description: Clarify the 11–9 regular-season, 2–2 playoff, and 13–11 overall records; remove duplicate introductions; compact Results; and hide game-log controls for players without appearances.
+Commit title: V29: Improve mobile layout and menu usability
+Description: Tighten the mobile homepage, keep the season record on one line, add a compact two-column mobile menu and quick links, enlarge tap targets, close the menu on scrolling, and contain long game logs.
 
-Based on V27.1. Jake’s photo, roster, statistical tables, awards and game archives are preserved. Checks passed for internal links, balanced heading markup, record totals, and game-log eligibility. Visual review can follow once uploaded.
+Based on V28. Existing player photos, rosters, records, awards and statistics are preserved. Menu behavior, HTML links, and JS syntax checked. The final iPhone appearance needs a phone check after publishing.

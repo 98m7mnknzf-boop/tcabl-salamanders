@@ -1627,3 +1627,49 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
 .compact-page-header .results-archive-stats strong{font-size:30px}
 .compact-page-header .results-archive-stats div{min-width:100px;padding-top:8px}
 @media(max-width:640px){.results-page .results-archive-section{padding-top:24px}.compact-page-header .results-archive-stats{gap:18px}.compact-page-header .results-archive-stats div{min-width:80px}}
+
+/* V29: mobile-first polish, based on the actual iPhone walkthrough. */
+@media(max-width:720px){
+  .nav-toggle{min-width:44px;min-height:44px;touch-action:manipulation}
+  .site-nav{padding:12px 16px 16px;gap:6px 12px;max-height:calc(100dvh - 68px);overscroll-behavior:contain}
+  .site-nav.open{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+  .site-nav a{min-height:46px;padding:10px 12px;border:1px solid rgba(255,255,255,.09);border-radius:8px;font-size:14px;line-height:1.3}
+  .site-nav a:not(.nav-cta)::after{display:none}
+  .site-nav a[aria-current="page"]{background:rgba(242,194,48,.1);border-color:rgba(242,194,48,.35)}
+  .site-nav .nav-cta{grid-column:1/-1;width:100%!important;justify-content:center;padding:12px!important}
+  .hero-content{padding-top:34px;padding-bottom:32px}
+  .hero h1{font-size:clamp(40px,12.5vw,64px);line-height:1.02;letter-spacing:0}
+  .hero-sub{font-size:15px;line-height:1.65;margin:20px 0 22px}
+  .hero-actions{gap:10px}
+  .button{min-height:46px;padding:13px 16px;touch-action:manipulation}
+  .hero-script-logo{width:min(250px,70vw);margin-top:24px}
+  .hero-stats{margin-top:26px;max-width:none;grid-template-columns:1fr;gap:0}
+  .hero-stats div{display:grid;grid-template-columns:100px minmax(0,1fr);align-items:center;gap:12px;padding:12px 0;min-width:0}
+  .hero-stats strong{font-size:34px;white-space:nowrap;line-height:1}
+  .hero-stats span{font-size:11px;line-height:1.55;margin:0}
+  .home-dashboard-inner{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .dashboard-card{min-height:116px;padding:34px 14px 16px;border:1px solid rgba(255,255,255,.08)}
+  .dashboard-card strong{font-size:23px;line-height:1.1}
+  .dashboard-card small{font-size:11px;line-height:1.45;color:#aaa}
+  .dashboard-number{left:14px;top:13px;font-size:14px}
+  .dashboard-arrow{right:14px;top:10px;font-size:20px}
+  .section{padding-top:38px;padding-bottom:38px}
+  .section-heading{margin-bottom:26px}
+  .section-heading h2{font-size:clamp(32px,9vw,46px);line-height:1.05}
+  .section-heading p,.about-copy p,.home-feature-copy p{font-size:15px;line-height:1.65}
+  .home-feature{padding-top:38px;padding-bottom:38px;gap:24px}
+  .feature-pills{margin:18px 0 22px}
+  .home-highlight-card{padding:22px}
+  .roster-subheading{gap:8px;margin-bottom:20px}
+  .roster-card-body{padding:18px}
+  .roster-card-body p{font-size:14px;line-height:1.65}
+  .roster-acquisition{font-size:10px;line-height:1.6;overflow-wrap:anywhere}
+  .player-stats>summary,.player-game-log>summary,.full-stats>summary{min-height:44px;padding:13px 12px;font-size:11px}
+  .player-game-log-body{max-height:420px;max-height:min(420px,60dvh);overflow-y:auto;overscroll-behavior-y:contain;-webkit-overflow-scrolling:touch}
+  .stats-table-wrap{-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}
+  .stats-table td:first-child{min-width:155px;max-width:155px;white-space:normal}
+  .stats-sort-button{min-height:40px}
+  .record-tab,.season-tab,.pitch-season-tab,.results-year-tab,.results-filter{min-height:44px}
+  .back-to-top{width:44px;height:44px;right:14px;bottom:calc(14px + env(safe-area-inset-bottom,0px))}
+  .site-footer{padding-bottom:calc(28px + env(safe-area-inset-bottom,0px))}
+}
