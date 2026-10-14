@@ -1,3 +1,14 @@
+.home-run-milestone{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.25fr);gap:28px;align-items:center;padding:28px;margin-bottom:28px;background:#151515;border:1px solid rgba(242,194,48,.3);border-top:3px solid var(--gold);border-radius:16px;scroll-margin-top:100px}
+.home-run-copy h3{font:400 clamp(32px,5vw,48px)/1.05 "Bebas Neue",sans-serif;margin:12px 0}
+.home-run-copy p{line-height:1.65;color:#ccc;margin:12px 0}
+.home-run-copy .award-name{color:var(--gold);font-weight:800}
+.home-run-copy .text-link{min-height:44px}
+.home-run-video{margin:0;min-width:0}
+.home-run-video video{display:block;width:100%;height:auto;aspect-ratio:1108/512;background:#000;border-radius:10px}
+.home-run-video video:focus-visible{outline:3px solid var(--gold);outline-offset:4px}
+.home-run-video figcaption{margin-top:10px;font-size:12px;line-height:1.5;color:#aaa}
+@media(max-width:800px){.home-run-milestone{grid-template-columns:1fr;gap:20px;padding:20px}.home-run-copy p{font-size:14px}}
+
 :root{
   --black:#090909;
   --black-2:#111111;
