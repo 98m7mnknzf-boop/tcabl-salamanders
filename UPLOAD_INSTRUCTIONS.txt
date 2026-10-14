@@ -1,10 +1,8 @@
-V27.1 — Jake Harris photo and bio
+V28: Confirm 2026 record and finish site cleanup
 
-Upload roster.html and the assets folder from this ZIP into the root of the existing tcabl-salamanders GitHub repository. Drag both together so GitHub retains assets/players/jake-harris.jpeg. Keep all existing assets; do not delete or replace the entire assets directory.
+Extract to a new folder. In the existing tcabl-salamanders repository select Add file > Upload files, drag the extracted files into the repository root, and commit to main. Keep existing assets and JSON data.
 
-Commit title: V27.1: Add Jake Harris photo and defensive bio
+Commit title: V28: Confirm 2026 record and finish site cleanup
+Description: Clarify the 11–9 regular-season, 2–2 playoff, and 13–11 overall records; remove duplicate introductions; compact Results; and hide game-log controls for players without appearances.
 
-Jake Harris #2 — OF / INF
-Bio: All-around defensive guru who brings versatility to the outfield and infield.
-
-This patch is based on the uploaded V27 site and changes only Jake’s card plus adding his photo.
+Based on V27.1. Jake’s photo, roster, statistical tables, awards and game archives are preserved. Checks passed for internal links, balanced heading markup, record totals, and game-log eligibility. Visual review can follow once uploaded.

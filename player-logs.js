@@ -118,6 +118,8 @@
 
     const playerName = heading.textContent.trim();
     if (body.querySelector('.player-game-log')) return;
+    // New additions have no appearances to display yet.
+    if (body.querySelector('.player-stats-empty') && !body.querySelector('.player-stats')) return;
 
     const details = document.createElement('details');
     details.className = 'player-game-log';
