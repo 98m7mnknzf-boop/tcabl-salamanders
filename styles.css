@@ -1684,3 +1684,12 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
   .back-to-top{width:44px;height:44px;right:14px;bottom:calc(14px + env(safe-area-inset-bottom,0px))}
   .site-footer{padding-bottom:calc(28px + env(safe-area-inset-bottom,0px))}
 }
+
+/* Team photograph: keep the full group in frame at every screen width. */
+.team-photo-feature{padding-top:32px;padding-bottom:32px}
+.team-photo-feature figure{margin:0}
+.team-photo-feature img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;object-position:center 85%;border-radius:18px;border:1px solid rgba(255,255,255,.12)}
+.team-photo-feature figcaption{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 20px;padding-top:12px}
+.team-photo-feature figcaption>span{font:400 clamp(26px,4vw,38px)/1.1 "Bebas Neue",sans-serif;color:var(--gold)}
+.team-photo-feature .text-link{min-height:44px}
+@media(max-width:600px){.team-photo-feature{padding-top:24px;padding-bottom:24px}.team-photo-feature img{border-radius:12px}}
