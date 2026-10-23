@@ -1693,3 +1693,31 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
 .team-photo-feature figcaption>span{font:400 clamp(26px,4vw,38px)/1.1 "Bebas Neue",sans-serif;color:var(--gold)}
 .team-photo-feature .text-link{min-height:44px}
 @media(max-width:600px){.team-photo-feature{padding-top:24px;padding-bottom:24px}.team-photo-feature img{border-radius:12px}}
+
+/* V35: establish club-first hierarchy and compact hero on phones. */
+@media(max-width:720px){
+  .hero-kicker{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    font-size:clamp(23px,5.3vw,32px);
+    line-height:1.08;
+    letter-spacing:.055em;
+    color:var(--gold);
+    margin-bottom:9px;
+  }
+  .hero-kicker::before{width:31px;height:4px;flex:0 0 31px}
+  .hero .eyebrow{
+    color:#c5c5c5;
+    font-size:clamp(9px,2.15vw,11px);
+    letter-spacing:.12em;
+    line-height:1.45;
+    margin-bottom:24px;
+  }
+  .hero h1{
+    font-size:clamp(40px,11.3vw,74px);
+    line-height:1;
+    letter-spacing:0;
+  }
+  .hero-sub{margin-top:20px}
+}
