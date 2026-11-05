@@ -1784,3 +1784,34 @@ body.has-unified-stats #stats.unified-hidden-section + #pitching{padding-top:20p
   .unified-stats-filters{grid-template-columns:1fr;gap:12px}
   .unified-stats-intro p{font-size:12px}
 }
+
+/* V42: Mobile-first stats hierarchy and interactive player profiles. */
+.stats-player-link,.stats-leader-link{appearance:none;border:0;background:transparent;color:var(--gold);font:inherit;cursor:pointer;text-align:left;padding:3px 0;text-decoration:underline;text-decoration-color:transparent;text-underline-offset:3px}
+.stats-leader-link{color:#fff}
+.stats-player-link:hover,.stats-leader-link:hover{text-decoration-color:currentColor}
+.stats-player-link:focus-visible,.stats-leader-link:focus-visible{outline:2px solid var(--gold);outline-offset:3px;border-radius:2px}
+.stats-priority-table th:first-child,.stats-priority-table td:first-child{min-width:165px}
+.stats-priority-table td{font-variant-numeric:tabular-nums}
+.stats-player-dialog{border:1px solid rgba(255,255,255,.18);border-radius:16px;max-width:min(760px,calc(100% - 28px));width:100%;max-height:min(85vh,780px);padding:0;background:#101010;color:#fff;box-shadow:0 32px 80px rgba(0,0,0,.75)}
+.stats-player-dialog::backdrop{background:rgba(0,0,0,.82)}
+.stats-profile-shell{padding:24px}
+.stats-profile-header{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;border-bottom:1px solid rgba(255,255,255,.14);padding-bottom:18px;margin-bottom:20px}
+.stats-profile-name{font:400 clamp(30px,5vw,46px)/1 "Bebas Neue",Impact,sans-serif;color:#fff;margin:4px 0}
+.stats-profile-subtitle{margin:8px 0 0;color:#bbb;font-size:12px;line-height:1.6}
+.stats-profile-close{border:1px solid rgba(255,255,255,.25);border-radius:8px;color:#fff;background:#1d1d1d;min-width:42px;min-height:42px;font-size:26px;cursor:pointer}
+.stats-profile-close:hover{background:#432025}
+.stats-profile-season{margin:0 0 24px}
+.stats-profile-season h3{color:var(--gold);font:400 24px/1.2 "Bebas Neue",Impact,sans-serif;margin-bottom:12px}
+.stats-profile-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px}
+.stats-profile-stat{display:flex;flex-direction:column;gap:6px;min-width:0;background:#1b1b1b;border:1px solid rgba(255,255,255,.06);border-radius:8px;padding:11px 8px}
+.stats-profile-stat strong{font:700 17px/1.2 "Inter",Arial,sans-serif;overflow-wrap:anywhere;font-variant-numeric:tabular-nums}
+.stats-profile-stat span{font-size:10px;letter-spacing:.08em;color:#bbb}
+@media(max-width:720px){
+  .stats-profile-shell{padding:16px}
+  .stats-profile-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .stats-priority-table{min-width:max-content}
+  .stats-priority-table th,.stats-priority-table td{white-space:nowrap}
+  .stats-priority-table td:first-child{white-space:normal;min-width:140px;max-width:150px}
+  .stats-table-wrap{scrollbar-width:thin}
+  .stats-table-wrap::after{content:"Swipe for more stats →"}
+}
