@@ -1764,3 +1764,23 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
   .hero h1{font-size:clamp(45px,12vw,50px)}
   .hero-founded{font-size:13px}
 }
+
+/* V41: Unified baseball stat book. Existing leader cards and tables are preserved. */
+.unified-stats-controls{display:none}
+body.has-unified-stats .unified-stats-controls{display:block;margin:0 0 24px;padding:22px;border:1px solid rgba(255,255,255,.13);border-radius:14px;background:linear-gradient(115deg,rgba(128,17,23,.22),#121212 70%)}
+.unified-stats-intro h2{font-family:"Bebas Neue",Impact,sans-serif;font-size:clamp(27px,4vw,42px);line-height:1.05}
+.unified-stats-intro p{margin:7px 0 17px;font-size:13px;line-height:1.6;color:#bfbfbf}
+.unified-stats-filters{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.unified-stats-filters label{display:flex;flex-direction:column;gap:8px;color:var(--gold);font-size:11px;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
+.unified-stats-filters select{appearance:auto;min-width:0;width:100%;height:46px;padding:10px 12px;border:1px solid rgba(255,255,255,.22);border-radius:8px;background:#171717;color:#fff;font:600 14px/1.3 "Inter",Arial,sans-serif;letter-spacing:0;text-transform:none}
+.unified-stats-filters select:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+body.has-unified-stats #stats .record-tabs,body.has-unified-stats #pitching .record-tabs{display:none}
+body.has-unified-stats #pitching.unified-hidden-section{display:none}
+body.has-unified-stats #stats.unified-hidden-section > :not(.unified-stats-controls){display:none}
+body.has-unified-stats #stats.unified-hidden-section{padding-bottom:0}
+body.has-unified-stats #stats.unified-hidden-section + #pitching{padding-top:20px}
+@media(max-width:600px){
+  body.has-unified-stats .unified-stats-controls{padding:17px 14px;margin-bottom:18px}
+  .unified-stats-filters{grid-template-columns:1fr;gap:12px}
+  .unified-stats-intro p{font-size:12px}
+}
