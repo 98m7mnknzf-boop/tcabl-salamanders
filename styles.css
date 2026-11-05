@@ -1721,3 +1721,15 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
   }
   .hero-sub{margin-top:20px}
 }
+
+/* V38: Salamanders club identity and founding-year homepage treatment. */
+.hero-identity{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px 24px;max-width:950px;margin-bottom:8px}
+.hero-identity .hero-kicker{margin-bottom:0}
+.hero-founded{font:400 20px/1 "Bebas Neue",Impact,sans-serif;letter-spacing:.14em;color:#bdbdbd;white-space:nowrap}
+.hero h1 span{color:var(--gold);-webkit-text-stroke:1px rgba(215,25,32,.6);text-shadow:3px 3px 0 rgba(215,25,32,.62)}
+@media(max-width:720px){
+  .hero-identity{align-items:flex-start;gap:8px 14px}
+  .hero-identity .hero-kicker{flex:1 1 240px}
+  .hero-founded{font-size:15px;letter-spacing:.1em}
+  .hero h1{font-size:clamp(42px,10.5vw,70px);line-height:1.02;max-width:100%}
+}
