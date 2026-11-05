@@ -71,6 +71,50 @@ document.querySelectorAll(".pitch-season-tab").forEach(tab => {
 });
 
 
+// V41: one set of season/category controls for both stat books.
+// The existing leaderboards, data tables, and table-sort functionality remain intact.
+const unifiedSeason = document.getElementById("unified-stat-season");
+const unifiedCategory = document.getElementById("unified-stat-category");
+if (unifiedSeason && unifiedCategory) {
+  const battingSection = document.getElementById("stats");
+  const pitchingSection = document.getElementById("pitching");
+  const filterBar = document.getElementById("stat-filters");
+  const seasonTargets = {
+    batting: {"2026": "stats-2026-panel", "2026-post": "stats-2026-post-panel", "2025": "stats-2025-panel"},
+    pitching: {"2026": "pitch-2026-panel", "2026-post": "pitch-2026-post-panel", "2025": "pitch-2025-panel"}
+  };
+
+  const updateUnifiedStats = () => {
+    const category = unifiedCategory.value;
+    const season = unifiedSeason.value;
+    battingSection.classList.toggle("unified-hidden-section", category !== "batting");
+    pitchingSection.classList.toggle("unified-hidden-section", category !== "pitching");
+    const selectedId = seasonTargets[category][season];
+    const chosenPanel = document.getElementById(selectedId);
+    const panels = (category === "batting")
+      ? document.querySelectorAll(".season-panel")
+      : document.querySelectorAll(".pitch-season-panel");
+    panels.forEach(panel => panel.classList.toggle("active", panel === chosenPanel));
+  };
+
+  unifiedSeason.addEventListener("change", updateUnifiedStats);
+  unifiedCategory.addEventListener("change", updateUnifiedStats);
+  document.querySelectorAll(".stats-category-shortcut").forEach(link => {
+    link.addEventListener("click", event => {
+      event.preventDefault();
+      unifiedCategory.value = link.dataset.statCategory;
+      updateUnifiedStats();
+      filterBar.scrollIntoView({behavior:"smooth",block:"start"});
+    });
+  });
+  // An existing /stats#pitching link should still open pitching rather than a hidden section.
+  if (window.location.hash === "#pitching" || window.location.hash.startsWith("#pitch-")) {
+    unifiedCategory.value = "pitching";
+  }
+  document.body.classList.add("has-unified-stats");
+  updateUnifiedStats();
+}
+
 // Launch polish: close mobile menu on Escape or outside click.
 document.addEventListener("keydown", event => {
   if (event.key === "Escape" && nav.classList.contains("open")) {
