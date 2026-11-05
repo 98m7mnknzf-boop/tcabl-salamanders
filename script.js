@@ -142,6 +142,125 @@ if (backToTop) {
 }
 
 
+// V42: Put the most useful stat columns first without altering any source values.
+// Every row is reordered with its matching header, so existing sortable columns still work.
+(() => {
+  const preferred = {
+    Player: ["Player", "AVG", "OBP", "OPS", "H", "RBI", "HR", "R", "SB", "GP", "PA", "AB", "SLG"],
+    Pitcher: ["Pitcher", "IP", "ERA", "WHIP", "SO", "W", "L", "GP", "GS", "H", "BB"]
+  };
+  document.querySelectorAll("table.stats-table").forEach(table => {
+    const header = table.tHead?.rows[0];
+    const body = table.tBodies[0];
+    if (!header || !body) return;
+    const labels = [...header.cells].map(cell => cell.textContent.trim());
+    const order = preferred[labels[0]];
+    if (!order) return; // Detail tables retain their established column order.
+    const indices = labels.map((label, index) => index).sort((a, b) => {
+      const ai = order.indexOf(labels[a]), bi = order.indexOf(labels[b]);
+      return (ai === -1 ? order.length + a : ai) - (bi === -1 ? order.length + b : bi);
+    });
+    [header, ...body.rows].forEach(row => {
+      const cells = [...row.cells];
+      if (cells.length !== labels.length) return;
+      indices.forEach(i => row.append(cells[i]));
+    });
+    table.classList.add("stats-priority-table");
+  });
+})();
+
+// V42: Player hub generated from the existing stat book (no duplicated data).
+(() => {
+  const tables = [...document.querySelectorAll("table.stats-table")].filter(table => {
+    const h = table.tHead?.rows[0]?.cells[0]?.textContent.trim();
+    return (h === "Player" || h === "Pitcher") && !!table.closest(".season-panel, .pitch-season-panel");
+  });
+  if (!tables.length) return;
+
+  const normalize = text => text.replace(/^#\d+\s*/, "").trim().toLocaleLowerCase();
+  const personIndex = new Map();
+  for (const table of tables) {
+    const panel = table.closest(".season-panel, .pitch-season-panel");
+    const period = panel?.id.includes("2026-post") ? "2026 Playoffs" :
+      panel?.id.includes("2025") ? "2025 Regular" : "2026 Regular";
+    const type = table.tHead.rows[0].cells[0].textContent.trim() === "Player" ? "Batting" : "Pitching";
+    const headers = [...table.tHead.rows[0].cells].map(cell => cell.textContent.trim());
+    for (const row of table.tBodies[0]?.rows || []) {
+      const raw = row.cells[0]?.textContent.trim() || "";
+      const key = normalize(raw);
+      if (!key) continue;
+      const data = headers.map((label,i) => ({label, value:row.cells[i]?.textContent.trim() ?? "—"}));
+      const entry = personIndex.get(key) || {name: raw.replace(/^#\d+\s*/, ""), number:raw.match(/^#(\d+)/)?.[1]||"", seasons:[]};
+      if (!entry.number) entry.number=raw.match(/^#(\d+)/)?.[1] || "";
+      entry.seasons.push({period,type,data});
+      personIndex.set(key,entry);
+      const cell = row.cells[0];
+      cell.textContent = "";
+      const link = document.createElement("button");
+      link.type="button";
+      link.className="stats-player-link";
+      link.textContent=raw;
+      link.setAttribute("aria-label", "View statistical profile for "+entry.name);
+      link.addEventListener("click",()=>openProfile(key));
+      cell.append(link);
+    }
+  }
+
+  const dialog=document.createElement("dialog");
+  dialog.className="stats-player-dialog";
+  dialog.setAttribute("aria-label","Player statistical profile");
+  dialog.innerHTML='<div class="stats-profile-shell"><div class="stats-profile-header"><div><div class="eyebrow">SALAMANDERS PLAYER HUB</div><h2 class="stats-profile-name"></h2><p class="stats-profile-subtitle"></p></div><button type="button" class="stats-profile-close" aria-label="Close player profile">×</button></div><div class="stats-profile-content"></div></div>';
+  document.body.append(dialog);
+  dialog.querySelector(".stats-profile-close").addEventListener("click",()=>dialog.close());
+  dialog.addEventListener("click", event => {if (event.target === dialog) dialog.close()});
+
+  function openProfile(key){
+    const entry=personIndex.get(key);
+    if (!entry) return;
+    dialog.querySelector(".stats-profile-name").textContent=(entry.number ? "#"+entry.number+"  " : "")+entry.name;
+    dialog.querySelector(".stats-profile-subtitle").textContent="Season-by-season batting and pitching · Regular season and playoffs shown separately";
+    const content=dialog.querySelector(".stats-profile-content");
+    content.replaceChildren();
+    const periods=["2026 Regular","2026 Playoffs","2025 Regular"];
+    for (const season of entry.seasons.sort((a,b)=>periods.indexOf(a.period)-periods.indexOf(b.period) || a.type.localeCompare(b.type))) {
+      const section=document.createElement("section");
+      section.className="stats-profile-season";
+      const heading=document.createElement("h3");
+      heading.textContent=season.period+" · "+season.type;
+      section.append(heading);
+      const grid=document.createElement("div");
+      grid.className="stats-profile-grid";
+      for(const stat of season.data.slice(1)){
+        const item=document.createElement("div");
+        item.className="stats-profile-stat";
+        const value=document.createElement("strong");
+        value.textContent=stat.value;
+        const label=document.createElement("span");
+        label.textContent=stat.label;
+        item.append(value,label);
+        grid.append(item);
+      }
+      section.append(grid);
+      content.append(section);
+    }
+    dialog.showModal();
+  }
+
+  // The same profile action works from the season leader cards.
+  document.querySelectorAll(".stat-leaders li").forEach(item=>{
+    const span=item.querySelector("span");
+    if(!span)return;
+    const key=normalize(span.textContent);
+    if(!personIndex.has(key))return;
+    const button=document.createElement("button");
+    button.type="button";
+    button.className="stats-leader-link";
+    button.textContent=span.textContent;
+    button.addEventListener("click",()=>openProfile(key));
+    span.replaceWith(button);
+  });
+})();
+
 // V20: sortable stat tables. Click/tap any column heading to sort; click again to reverse.
 (() => {
   const tables = document.querySelectorAll("table.stats-table");
