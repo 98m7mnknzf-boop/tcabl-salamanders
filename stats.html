@@ -75,6 +75,17 @@
 </header>
 <main id="main-content">
 <section class="results-hero compact-page-header"><div class="results-hero-inner"><div class="eyebrow">SALAMANDERS STAT BOOK</div><h1>TEAM <span>STATS</span></h1><p>2025–2026 batting and pitching. Regular season and playoffs are tracked separately.</p><div class="page-actions"><a class="button button-secondary" href="#stats">Batting</a><a class="button button-secondary" href="#pitching">Pitching</a></div></div></section><section class="section stats-section" id="stats">
+<div class="unified-stats-controls" id="stat-filters" aria-label="Choose statistics">
+  <div class="unified-stats-intro"><div class="eyebrow">THE STAT BOOK</div><h2>EXPLORE PLAYER STATS</h2><p>Select a season and batting or pitching. The leaders stay above the full sortable tables.</p></div>
+  <div class="unified-stats-filters">
+    <label for="unified-stat-season">Season
+      <select id="unified-stat-season"><option value="2026">2026 Regular Season</option><option value="2026-post">2026 Playoffs</option><option value="2025">2025 Regular Season</option></select>
+    </label>
+    <label for="unified-stat-category">Statistics
+      <select id="unified-stat-category"><option value="batting">Batting</option><option value="pitching">Pitching</option></select>
+    </label>
+  </div>
+</div>
 <h2 class="visually-hidden">Batting statistics</h2>
 <div aria-label="Season batting statistics" class="record-tabs season-tabs" role="tablist">
 <button class="season-tab active" data-season-target="stats-2026-panel">2026 Regular</button>
