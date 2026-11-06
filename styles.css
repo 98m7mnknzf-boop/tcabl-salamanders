@@ -1827,3 +1827,10 @@ body.has-unified-stats #stats.unified-hidden-section + #pitching{padding-top:20p
 .support-card .support-action{margin-top:auto}
 .support-card .support-fineprint{font-size:11px;color:#aaa;line-height:1.5}
 @media(max-width:700px){.support-grid{grid-template-columns:1fr;gap:12px}.support-card{min-height:0;padding:20px;gap:12px}.support-card .support-action,.support-payment-status{width:100%;text-align:center;justify-content:center}}
+
+/* V45: Secure offsite payment links and transparent recipient notice */
+.support-payment-options{display:flex;flex-wrap:wrap;gap:10px;margin-top:auto;width:100%}
+.support-payment-options .support-pay-link{display:inline-flex;align-items:center;justify-content:center;text-align:center;min-height:46px;flex:1 1 180px}
+.support-card .support-payment-recipient{color:#c9c9c9;font-size:11px;line-height:1.6;border-left:2px solid var(--gold);padding-left:10px}
+.support-payment-recipient strong{color:#fff}
+@media(max-width:700px){.support-payment-options{flex-direction:column}.support-payment-options .support-pay-link{flex:auto;width:100%}}
