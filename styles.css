@@ -1834,3 +1834,9 @@ body.has-unified-stats #stats.unified-hidden-section + #pitching{padding-top:20p
 .support-card .support-payment-recipient{color:#c9c9c9;font-size:11px;line-height:1.6;border-left:2px solid var(--gold);padding-left:10px}
 .support-payment-recipient strong{color:#fff}
 @media(max-width:700px){.support-payment-options{flex-direction:column}.support-payment-options .support-pay-link{flex:auto;width:100%}}
+
+/* V46: Official Salamanders YouTube discoverability */
+.footer-social-links{display:flex;flex-wrap:wrap;align-items:center;gap:12px}
+.footer-social-links a{color:#f1c43c;text-decoration:none;font-size:12px;font-weight:700}
+.footer-social-links a:hover,.footer-social-links a:focus-visible{color:#fff;text-decoration:underline;text-underline-offset:4px}
+.footer-social-links a:focus-visible{outline:2px solid #f1c43c;outline-offset:4px}
